@@ -1,0 +1,45 @@
+name: Sync locales to accountcenter
+
+on:
+  push:
+    branches:
+      - main
+    paths:
+      - 'locales/**'
+
+jobs:
+  sync-locales:
+    name: Sync locales to ordnary-com/accountcenter
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout localization repo
+        uses: actions/checkout@v4
+        with:
+          path: localization-repo
+
+      - name: Checkout accountcenter repo
+        uses: actions/checkout@v4
+        with:
+          repository: ordnary-com/accountcenter
+          token: ${{ secrets.PERSONAL_ACCESS_TOKEN }}
+          path: accountcenter
+
+      - name: Copy locale files to accountcenter
+        run: |
+          rsync -av --delete locales/ accountcenter/locales/
+
+      - name: Commit locale changes
+        run: |
+          cd accountcenter
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add locales
+          if git diff --cached --quiet; then
+            echo "No locale changes to sync"
+            exit 0
+          fi
+          git commit -m "Sync locale files from ordnary-com/i18n"
+          git push origin HEAD:main

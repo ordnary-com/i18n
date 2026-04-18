@@ -1,0 +1,117 @@
+{
+  "global": {
+    "accountCenterTitle": "Accountcentrum",
+    "accountCenterSubtitle": "Beheer je gekoppelde ervaringen en accountinstellingen over Ordnary-technologieën.",
+    "learnMore": "Meer informatie",
+    "loading": "Bezig met laden..."
+  },
+  "nav": {
+    "profiles": "Profielen",
+    "connectedExperiences": "Verbonden ervaringen",
+    "passwordAndSecurity": "Wachtwoord en beveiliging",
+    "personalDetails": "Persoonlijke gegevens",
+    "permissions": "Je gegevens en toestemmingen",
+    "adPreferences": "Advertentievoorkeuren",
+    "payments": "Ordnary Pay",
+    "accounts": "Accounts"
+  },
+  "profiles": {
+    "title": "Profielen",
+    "description": "Beheer je gekoppelde ervaringen en accountinstellingen over Ordnary-technologieën.",
+    "addAccounts": "Accounts toevoegen"
+  },
+  "auth": {
+    "titles": {
+      "accountNotFound": "Maak een nieuw Ordnary-account aan?",
+      "registrationName": "Wat is je naam?",
+      "registrationBirthday": "Wanneer ben je jarig?",
+      "registrationPassword": "Maak een wachtwoord aan",
+      "saveLoginInfo": "Logingegevens opslaan?",
+      "registrationReview": "Voltooi het aanmaken van je account",
+      "verifyEmailCode": "Voer bevestigingscode in",
+      "editEmail": "Wat is je e-mailadres?",
+      "loginCodeEntry": "Controleer je e-mail",
+      "recoveryCodeEntry": "Bevestig je account",
+      "resetPassword": "Maak een nieuw wachtwoord aan",
+      "passwordEntry": "Voer je wachtwoord in",
+      "identifierLookup": "Wat is je e-mail?"
+    },
+    "descriptions": {
+      "identifierLookup": "Voer je e-mail in om in te loggen op een Ordnary-account of om een nieuw account te maken.",
+      "passwordEntry": "Om in te loggen, voer je het wachtwoord in dat hoort bij {identifier}.",
+      "accountNotFound": "We kunnen geen Ordnary-account vinden voor {email}. Misschien heb je nog geen account aangemaakt. Als je er wel een hebt, kan deze een ander identificatiemiddel gebruiken.",
+      "registrationName": "Deze naam wordt gebruikt voor accountherstel en communicatie over je account. Het is niet zichtbaar voor het publiek.",
+      "registrationBirthday": "Gebruik je eigen geboortedatum, zelfs als dit account voor een bedrijf of iets anders is. Deze informatie wordt niet openbaar.",
+      "registrationPassword": "Maak een wachtwoord met minimaal 6 tekens. Het moet iets zijn dat anderen niet kunnen raden.",
+      "saveLoginInfo": "We slaan de logingegevens voor je account op, zodat je deze niet opnieuw hoeft in te voeren de volgende keer dat je inlogt.",
+      "verifyEmailCode": "Voer de 6-cijferige code in die naar {identifier} is verzonden om je account te bevestigen.",
+      "editEmail": "Voer het e-mailadres in waarop je bereikbaar bent. Dit e-mailadres wordt gebruikt voor login en accountbeheer en is niet zichtbaar voor het publiek.",
+      "loginCodeEntry": "Om in te loggen, voer je de code in die we naar {identifier} hebben gestuurd. Je moet mogelijk je spam- of sociale mailmap controleren.",
+      "recoveryCodeEntry": "We hebben een code naar {identifier} gestuurd. Voer die code in om je account te bevestigen.",
+      "resetPassword": "Je gebruikt dit wachtwoord om in te loggen op je Ordnary-account. Gebruik minimaal 6 letters en cijfers."
+    },
+    "buttons": {
+      "createNewAccount": "Maak nieuw account aan",
+      "alreadyHaveAccount": "Ik heb al een account",
+      "next": "Volgende",
+      "save": "Opslaan",
+      "notNow": "Niet nu",
+      "finish": "Voltooien",
+      "resendCode": "Code opnieuw verzenden",
+      "enterPassword": "Voer wachtwoord in",
+      "forgotPassword": "Wachtwoord vergeten?",
+      "switchAccount": "Wissel account",
+      "yes": "Ja",
+      "no": "Nee"
+    },
+    "labels": {
+      "firstName": "Voornaam",
+      "lastName": "Achternaam",
+      "day": "Dag",
+      "month": "Maand",
+      "year": "Jaar",
+      "confirmationCode": "Bevestigingscode",
+      "email": "E-mailadres",
+      "password": "Wachtwoord",
+      "newPassword": "Nieuw wachtwoord",
+      "logoutOthers": "Log overal anders uit om ervoor te zorgen dat niemand anders nog toegang tot je account heeft",
+      "marketingEmails": "Ik wil e-mails ontvangen over apps, aanbevelingen en aanbiedingen voor Ordnary Identity."
+    },
+    "links": {
+      "whyNeedBirthday": "Waarom moet ik mijn geboortedatum opgeven?",
+      "learnMore": "Meer informatie",
+      "editEmail": "E-mailadres bewerken",
+      "noAccessEmail": "Heb je geen toegang meer tot dit e-mailadres?",
+      "termsOfService": "Servicevoorwaarden",
+      "privacyPolicy": "Privacybeleid",
+      "cookiePolicy": "Cookiebeleid"
+    },
+    "messages": {
+      "nameHelp": "Als je je echte naam gebruikt, wordt het gemakkelijker om je account te herstellen als je de toegang verliest.",
+      "emailHelp": "Gebruik je zakelijke of persoonlijke e-mail om toegang te krijgen tot je Ordnary Cloud-services.",
+      "summaryPrivacy": "De accountgegevens van je Ordnary-account zijn niet openbaar.",
+      "verifyEmailLookFor": "Let op een e-mail van notification@ordnary.com. Je moet mogelijk je spam- of sociale mappen controleren.",
+      "termsAgreement": "Door op \"Voltooien\" te klikken, ga je akkoord met onze {termsOfService}, {privacyPolicy} en dat je ons {cookiePolicy} hebt gelezen.",
+      "footerAgreement": "Door door te gaan, erken je dat je ons {termsOfService}, {privacyPolicy} en toepasselijke richtlijnen voor gegevensverwerking hebt gelezen en dat je essentiële account- en beveiligingsmeldingen wilt ontvangen met betrekking tot je gebruik van het platform.",
+      "emailMissing": "E-mailadres is verplicht.",
+      "resendCodeError": "Er is een onverwachte fout opgetreden bij het opnieuw verzenden van de code.",
+      "invalidInput": "Ongeldige invoer.",
+      "credentialsPrompt": "Om in te loggen, voer je het wachtwoord in dat hoort bij {identifier}.",
+      "checkEmailPrompt": "Om in te loggen, voer je de code in die we naar {identifier} hebben gestuurd."
+    },
+    "months": [
+      "januari",
+      "februari",
+      "maart",
+      "april",
+      "mei",
+      "juni",
+      "juli",
+      "augustus",
+      "september",
+      "oktober",
+      "november",
+      "december"
+    ]
+  }
+}

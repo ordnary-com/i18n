@@ -1,0 +1,117 @@
+{
+  "global": {
+    "accountCenterTitle": "Account Center",
+    "accountCenterSubtitle": "Manage your connected experiences and account settings across Ordnary technologies.",
+    "learnMore": "Learn more",
+    "loading": "Loading..."
+  },
+  "nav": {
+    "profiles": "Profiles",
+    "connectedExperiences": "Connected experiences",
+    "passwordAndSecurity": "Password and security",
+    "personalDetails": "Personal details",
+    "permissions": "Your information and permissions",
+    "adPreferences": "Ad preferences",
+    "payments": "Ordnary Pay",
+    "accounts": "Accounts"
+  },
+  "profiles": {
+    "title": "Profiles",
+    "description": "Manage your connected experiences and account settings across Ordnary technologies.",
+    "addAccounts": "Add accounts"
+  },
+  "auth": {
+    "titles": {
+      "accountNotFound": "Create a new Ordnary account?",
+      "registrationName": "What’s your name?",
+      "registrationBirthday": "When’s your birthday?",
+      "registrationPassword": "Create a password",
+      "saveLoginInfo": "Save login info?",
+      "registrationReview": "Finish creating your account",
+      "verifyEmailCode": "Enter confirmation code",
+      "editEmail": "What’s your email address?",
+      "loginCodeEntry": "Check your email",
+      "recoveryCodeEntry": "Confirm your account",
+      "resetPassword": "Create a new password",
+      "passwordEntry": "Enter your password",
+      "identifierLookup": "What’s your email?"
+    },
+    "descriptions": {
+      "identifierLookup": "Enter your email to log into an Ordnary account or create a new one.",
+      "passwordEntry": "To log in, enter the password associated with {identifier}.",
+      "accountNotFound": "We can’t find an Ordnary account for {email}. You may not have created one yet. If you have created one, it may be using a different identifier.",
+      "registrationName": "This name will be used for account recovery and communications about your account. It isn’t visible to the public.",
+      "registrationBirthday": "Use your own date of birth, even if this account is for a business or something else. This information won’t be public.",
+      "registrationPassword": "Create a password with at least 6 characters. It should be something others couldn’t guess.",
+      "saveLoginInfo": "We’ll save the login info for your account so you won’t have to enter it next time you log in.",
+      "verifyEmailCode": "Enter the 6-digit code sent to {identifier} to confirm your account.",
+      "editEmail": "Enter the email address where you can be contacted. This email address will be used for login and account management, and isn’t visible to the public.",
+      "loginCodeEntry": "To log in, enter the code we sent to {identifier}. You may need to check your spam or social mail folder.",
+      "recoveryCodeEntry": "We’ve sent a code to {identifier}. Enter that code to confirm your account.",
+      "resetPassword": "You’ll use this password to log into your Ordnary Account. Use at least 6 letters and numbers."
+    },
+    "buttons": {
+      "createNewAccount": "Create new account",
+      "alreadyHaveAccount": "I already have an account",
+      "next": "Next",
+      "save": "Save",
+      "notNow": "Not now",
+      "finish": "Finish",
+      "resendCode": "Resend code",
+      "enterPassword": "Enter password",
+      "forgotPassword": "Forgot password?",
+      "switchAccount": "Switch account",
+      "yes": "Yes",
+      "no": "No"
+    },
+    "labels": {
+      "firstName": "First name",
+      "lastName": "Last name",
+      "day": "Day",
+      "month": "Month",
+      "year": "Year",
+      "confirmationCode": "Confirmation code",
+      "email": "Email address",
+      "password": "Password",
+      "newPassword": "New password",
+      "logoutOthers": "Log out everywhere else to make sure no one else can still access your account",
+      "marketingEmails": "I would like to receive emails about apps, recommendations, and offers for Ordnary Identity."
+    },
+    "links": {
+      "whyNeedBirthday": "Why do I need to provide my date of birth?",
+      "learnMore": "Learn more",
+      "editEmail": "Edit email address",
+      "noAccessEmail": "No longer have access to this email address?",
+      "termsOfService": "Terms of Service",
+      "privacyPolicy": "Privacy Policy",
+      "cookiePolicy": "Cookie Policy"
+    },
+    "messages": {
+      "nameHelp": "Using your real name makes it easier to recover your account if you lose access.",
+      "emailHelp": "Use your corporate or personal email to access your Ordnary Cloud services.",
+      "summaryPrivacy": "Your Ordnary account details aren’t public.",
+      "verifyEmailLookFor": "Look for an email from notification@ordnary.com. You may need to check your spam or social folders.",
+      "termsAgreement": "By clicking \"Finish\", you agree to our {termsOfService}, {privacyPolicy}, and that you have read our {cookiePolicy}.",
+      "footerAgreement": "By continuing, you acknowledge that you have read and agree to our {termsOfService}, {privacyPolicy}, and applicable data processing guidelines. You also agree to receive essential account and security notifications related to your use of the platform.",
+      "emailMissing": "Email address is missing.",
+      "resendCodeError": "An unexpected error occurred while resending the code.",
+      "invalidInput": "Invalid input.",
+      "credentialsPrompt": "To log in, enter the password associated with {identifier}.",
+      "checkEmailPrompt": "To log in, enter the code we sent to {identifier}."
+    },
+    "months": [
+      "January",
+      "February",
+      "March",
+      "April",
+      "May",
+      "June",
+      "July",
+      "August",
+      "September",
+      "October",
+      "November",
+      "December"
+    ]
+  }
+}

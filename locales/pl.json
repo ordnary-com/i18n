@@ -1,0 +1,141 @@
+{
+  "global": {
+    "accountCenterTitle": "Centrum konta",
+    "accountCenterSubtitle": "Zarzadzaj polaczonymi doswiadczeniami i ustawieniami konta we wszystkich technologiach Ordnary.",
+    "learnMore": "Dowiedz sie wiecej",
+    "loading": "Ladowanie..."
+  },
+  "nav": {
+    "profiles": "Profile",
+    "connectedExperiences": "Polaczone doswiadczenia",
+    "passwordAndSecurity": "Haslo i bezpieczenstwo",
+    "personalDetails": "Dane osobowe",
+    "permissions": "Twoje informacje i uprawnienia",
+    "adPreferences": "Preferencje reklam",
+    "payments": "Ordnary Pay",
+    "accounts": "Konta"
+  },
+  "profiles": {
+    "title": "Profile",
+    "description": "Zarzadzaj polaczonymi doswiadczeniami i ustawieniami konta we wszystkich technologiach Ordnary.",
+    "addAccounts": "Dodaj konta"
+  },
+  "auth": {
+    "titles": {
+      "accountNotFound": "Utworzyc nowe konto Ordnary?",
+      "registrationName": "Jak masz na imie?",
+      "registrationBirthday": "Kiedy sa twoje urodziny?",
+      "registrationPassword": "Utworz haslo",
+      "saveLoginInfo": "Zapisac dane logowania?",
+      "registrationReview": "Dokoncz tworzenie konta",
+      "verifyEmailCode": "Wpisz kod potwierdzajacy",
+      "editEmail": "Jaki jest twoj adres e-mail?",
+      "loginCodeEntry": "Sprawdz swoja poczte",
+      "recoveryCodeEntry": "Potwierdz konto",
+      "resetPassword": "Utworz nowe haslo",
+      "passwordEntry": "Wpisz haslo",
+      "identifierLookup": "Jaki jest twoj e-mail?"
+    },
+    "descriptions": {
+      "identifierLookup": "Wpisz swoj e-mail, aby zalogowac sie do konta Ordnary lub utworzyc nowe.",
+      "passwordEntry": "Aby sie zalogowac, wpisz haslo powiazane z {identifier}.",
+      "accountNotFound": "Nie mozemy znalezc konta Ordnary dla {email}. Byc moze jeszcze go nie utworzyles. Jesli juz je utworzyles, moze korzystac z innego identyfikatora.",
+      "registrationName": "Ta nazwa bedzie uzywana do odzyskiwania konta i komunikacji dotyczacej twojego konta. Nie bedzie publicznie widoczna.",
+      "registrationBirthday": "Uzyj swojej prawdziwej daty urodzenia, nawet jesli to konto jest dla firmy lub czegos innego. Te informacje nie beda publiczne.",
+      "registrationPassword": "Utworz haslo skladajace sie z co najmniej 6 znakow. Powinno byc trudne do odgadniecia dla innych.",
+      "saveLoginInfo": "Zapiszemy dane logowania do twojego konta, aby nastepnym razem nie trzeba bylo ich ponownie wpisywac.",
+      "verifyEmailCode": "Wpisz 6-cyfrowy kod wyslany na {identifier}, aby potwierdzic konto.",
+      "editEmail": "Wpisz adres e-mail, pod ktorym mozemy sie z toba skontaktowac. Ten adres bedzie uzywany do logowania i zarzadzania kontem i nie bedzie publicznie widoczny.",
+      "loginCodeEntry": "Aby sie zalogowac, wpisz kod, ktory wyslalismy na {identifier}. Moze byc konieczne sprawdzenie folderu spamu lub spolecznosciowego.",
+      "recoveryCodeEntry": "Wyslalismy kod na {identifier}. Wpisz go, aby potwierdzic konto.",
+      "resetPassword": "Tego hasla bedziesz uzywac do logowania sie na konto Ordnary. Uzyj co najmniej 6 liter i cyfr."
+    },
+    "buttons": {
+      "createNewAccount": "Utworz nowe konto",
+      "alreadyHaveAccount": "Mam juz konto",
+      "next": "Dalej",
+      "save": "Zapisz",
+      "notNow": "Nie teraz",
+      "finish": "Zakoncz",
+      "resendCode": "Wyslij kod ponownie",
+      "enterPassword": "Wpisz haslo",
+      "forgotPassword": "Nie pamietasz hasla?",
+      "switchAccount": "Przelacz konto",
+      "yes": "Tak",
+      "no": "Nie"
+    },
+    "labels": {
+      "name": "Imie",
+      "firstName": "Imie",
+      "lastName": "Nazwisko",
+      "day": "Dzien",
+      "month": "Miesiac",
+      "year": "Rok",
+      "dateOfBirth": "Data urodzenia",
+      "confirmationCode": "Kod potwierdzajacy",
+      "email": "Adres e-mail",
+      "password": "Haslo",
+      "newPassword": "Nowe haslo",
+      "logoutOthers": "Wyloguj sie ze wszystkich innych miejsc, aby upewnic sie, ze nikt inny nie ma juz dostepu do twojego konta",
+      "marketingEmails": "Chce otrzymywac e-maile o aplikacjach, rekomendacjach i ofertach Ordnary Identity."
+    },
+    "links": {
+      "whyNeedBirthday": "Dlaczego musze podac date urodzenia?",
+      "learnMore": "Dowiedz sie wiecej",
+      "editEmail": "Edytuj adres e-mail",
+      "noAccessEmail": "Nie masz juz dostepu do tego adresu e-mail?",
+      "termsOfService": "Warunki korzystania z uslugi",
+      "privacyPolicy": "Polityka prywatnosci",
+      "cookiePolicy": "Polityka plikow cookie"
+    },
+    "messages": {
+      "nameHelp": "Uzywanie prawdziwego imienia i nazwiska ulatwia odzyskanie konta w razie utraty dostepu.",
+      "emailHelp": "Uzyj sluzbowego lub prywatnego adresu e-mail, aby uzyskac dostep do uslug Ordnary.",
+      "summaryPrivacy": "Szczegoly twojego konta Ordnary nie sa publiczne.",
+      "verifyEmailLookFor": "Szukaj wiadomosci od notification@ordnary.com. Moze byc konieczne sprawdzenie folderu spamu lub spolecznosciowego.",
+      "termsAgreement": "Klikajac \"Zakoncz\", zgadzasz sie z naszymi Warunkami korzystania z uslugi, Polityka prywatnosci i potwierdzasz, ze przeczytales nasza Polityke plikow cookie.",
+      "footerAgreement": "Kontynuujac, potwierdzasz, ze przeczytales i akceptujesz nasze Warunki korzystania z uslugi, Polityke prywatnosci i odpowiednie wytyczne dotyczace przetwarzania danych. Zgadzasz sie rowniez otrzymywac niezbedne powiadomienia dotyczace konta i bezpieczenstwa zwiazane z korzystaniem z platformy.",
+      "emailMissing": "Adres e-mail jest wymagany.",
+      "resendCodeError": "Podczas ponownego wysylania kodu wystapil nieoczekiwany blad.",
+      "invalidInput": "Nieprawidlowe dane.",
+      "credentialsPrompt": "Aby sie zalogowac, wpisz haslo powiazane z {identifier}.",
+      "checkEmailPrompt": "Aby sie zalogowac, wpisz kod, ktory wyslalismy na {identifier}.",
+      "termsIntro": "Dotykajac Zakoncz, akceptujesz nasze"
+    },
+    "validation": {
+      "emailRequired": "Adres e-mail jest wymagany.",
+      "passwordRequired": "Haslo jest wymagane.",
+      "passwordMin": "Haslo musi miec co najmniej 12 znakow.",
+      "passwordMax": "Haslo nie moze przekraczac 128 znakow.",
+      "emailInvalid": "Wpisz prawidlowy adres e-mail.",
+      "displayNameMin": "Nazwa wyswietlana musi miec co najmniej 2 znaki.",
+      "resetTokenRequired": "Token resetowania jest wymagany.",
+      "verificationTokenRequired": "Token weryfikacyjny jest wymagany."
+    },
+    "errors": {
+      "invalidInput": "Nieprawidlowe dane.",
+      "genericLoginFailed": "Nie mozna bylo cie zalogowac. Sprobuj ponownie.",
+      "loginInvalidCredentials": "Nieprawidlowy e-mail lub haslo.",
+      "accountLocked": "Twoje konto jest zablokowane lub zawieszone.",
+      "passwordIncorrect": "Wprowadzone haslo jest nieprawidlowe.",
+      "notAuthenticated": "Nie jestes uwierzytelniony.",
+      "registrationMissingInfo": "Brakuje wymaganych informacji rejestracyjnych.",
+      "registrationEmailExists": "Konto z tym adresem e-mail juz istnieje.",
+      "systemNoDefaultTenant": "Blad systemu: nie znaleziono domyslnego tenant.",
+      "registrationFailed": "Rejestracja nie powiodla sie. Sprobuj ponownie.",
+      "invalidVerificationRequest": "Nieprawidlowa prosba o weryfikacje.",
+      "accountNotFound": "Nie znaleziono konta.",
+      "verificationCodeInvalidOrExpired": "Kod weryfikacyjny jest nieprawidlowy lub wygasl.",
+      "verificationFailedTryAgain": "Weryfikacja nie powiodla sie. Sprobuj ponownie.",
+      "invalidRequest": "Nieprawidlowe zadanie.",
+      "userNotFound": "Nie znaleziono uzytkownika.",
+      "codeInvalidOrExpired": "Kod jest nieprawidlowy lub wygasl.",
+      "verificationFailed": "Weryfikacja nie powiodla sie.",
+      "missingInformation": "Brakuje informacji.",
+      "passwordResetFailed": "Resetowanie hasla nie powiodlo sie.",
+      "emailMissing": "Brakuje adresu e-mail.",
+      "resendCodeFailed": "Nie udalo sie ponownie wyslac kodu. Sprobuj ponownie."
+    },
+    "months": ["styczen", "luty", "marzec", "kwiecien", "maj", "czerwiec", "lipiec", "sierpien", "wrzesien", "pazdziernik", "listopad", "grudzien"]
+  }
+}

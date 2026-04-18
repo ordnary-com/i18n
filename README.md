@@ -5,7 +5,7 @@ This repository contains a standalone i18n helper and locale dictionary package 
 ## Contents
 
 - `src/i18n.ts`: lightweight locale detection and dictionary loader
-- `locales/en.json` / `locales/nl.json`: translation source files
+- `locales/*.json`: translation source files
 
 ## Usage
 
@@ -15,7 +15,25 @@ This repository contains a standalone i18n helper and locale dictionary package 
 ## Locales
 
 - `en`
+- `ar`
+- `bn`
+- `de`
+- `es`
+- `fr`
+- `hi`
+- `id`
+- `it`
+- `ja`
+- `ko`
 - `nl`
+- `pl`
+- `pt`
+- `ru`
+- `th`
+- `tr`
+- `uk`
+- `vi`
+- `zh`
 
 ## Build
 

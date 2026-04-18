@@ -1,0 +1,141 @@
+{
+  "global": {
+    "accountCenterTitle": "Hesap Merkezi",
+    "accountCenterSubtitle": "Bagli deneyimlerini ve hesap ayarlarini Ordnary teknolojileri genelinde yonet.",
+    "learnMore": "Daha fazla bilgi",
+    "loading": "Yukleniyor..."
+  },
+  "nav": {
+    "profiles": "Profiller",
+    "connectedExperiences": "Bagli deneyimler",
+    "passwordAndSecurity": "Sifre ve guvenlik",
+    "personalDetails": "Kisisel bilgiler",
+    "permissions": "Bilgilerin ve izinlerin",
+    "adPreferences": "Reklam tercihleri",
+    "payments": "Ordnary Pay",
+    "accounts": "Hesaplar"
+  },
+  "profiles": {
+    "title": "Profiller",
+    "description": "Bagli deneyimlerini ve hesap ayarlarini Ordnary teknolojileri genelinde yonet.",
+    "addAccounts": "Hesap ekle"
+  },
+  "auth": {
+    "titles": {
+      "accountNotFound": "Yeni bir Ordnary hesabi olusturulsun mu?",
+      "registrationName": "Adin ne?",
+      "registrationBirthday": "Dogum gunun ne zaman?",
+      "registrationPassword": "Bir sifre olustur",
+      "saveLoginInfo": "Giris bilgileri kaydedilsin mi?",
+      "registrationReview": "Hesap olusturmayi tamamla",
+      "verifyEmailCode": "Onay kodunu gir",
+      "editEmail": "E-posta adresin nedir?",
+      "loginCodeEntry": "E-postani kontrol et",
+      "recoveryCodeEntry": "Hesabini dogrula",
+      "resetPassword": "Yeni bir sifre olustur",
+      "passwordEntry": "Sifreni gir",
+      "identifierLookup": "E-postan nedir?"
+    },
+    "descriptions": {
+      "identifierLookup": "Ordnary hesabina giris yapmak veya yeni bir hesap olusturmak icin e-postani gir.",
+      "passwordEntry": "Giris yapmak icin {identifier} ile iliskili sifreyi gir.",
+      "accountNotFound": "{email} icin bir Ordnary hesabi bulamiyoruz. Henuz olusturmamis olabilirsin. Olusturduysan farkli bir tanimlayici kullaniyor olabilir.",
+      "registrationName": "Bu ad, hesap kurtarma ve hesabinla ilgili iletisimler icin kullanilacak. Herkese acik gorunmeyecek.",
+      "registrationBirthday": "Bu hesap bir isletme ya da baska bir sey icin olsa bile kendi dogum tarihini kullan. Bu bilgi herkese acik olmayacak.",
+      "registrationPassword": "En az 6 karakterlik bir sifre olustur. Baskalarinin tahmin edemeyecegi bir sey olmali.",
+      "saveLoginInfo": "Bir dahaki sefere tekrar girmek zorunda kalmaman icin hesap giris bilgilerini kaydedecegiz.",
+      "verifyEmailCode": "Hesabini dogrulamak icin {identifier} adresine gonderilen 6 haneli kodu gir.",
+      "editEmail": "Ulasabilecegimiz e-posta adresini gir. Bu adres giris ve hesap yonetimi icin kullanilacak ve herkese acik gorunmeyecek.",
+      "loginCodeEntry": "Giris yapmak icin {identifier} adresine gonderdigimiz kodu gir. Spam veya sosyal klasorunu de kontrol etmen gerekebilir.",
+      "recoveryCodeEntry": "{identifier} adresine bir kod gonderdik. Hesabini dogrulamak icin o kodu gir.",
+      "resetPassword": "Bu sifreyi Ordnary hesabina giris yapmak icin kullanacaksin. En az 6 harf ve rakam kullan."
+    },
+    "buttons": {
+      "createNewAccount": "Yeni hesap olustur",
+      "alreadyHaveAccount": "Zaten bir hesabim var",
+      "next": "Ileri",
+      "save": "Kaydet",
+      "notNow": "Simdi degil",
+      "finish": "Bitir",
+      "resendCode": "Kodu yeniden gonder",
+      "enterPassword": "Sifreyi gir",
+      "forgotPassword": "Sifreni mi unuttun?",
+      "switchAccount": "Hesap degistir",
+      "yes": "Evet",
+      "no": "Hayir"
+    },
+    "labels": {
+      "name": "Ad",
+      "firstName": "Ad",
+      "lastName": "Soyad",
+      "day": "Gun",
+      "month": "Ay",
+      "year": "Yil",
+      "dateOfBirth": "Dogum tarihi",
+      "confirmationCode": "Onay kodu",
+      "email": "E-posta adresi",
+      "password": "Sifre",
+      "newPassword": "Yeni sifre",
+      "logoutOthers": "Hesabina baska kimsenin erisememesi icin diger tum yerlerden cikis yap",
+      "marketingEmails": "Ordnary Identity uygulamalari, onerileri ve teklifleri hakkinda e-posta almak istiyorum."
+    },
+    "links": {
+      "whyNeedBirthday": "Dogum tarihimi neden vermem gerekiyor?",
+      "learnMore": "Daha fazla bilgi",
+      "editEmail": "E-posta adresini duzenle",
+      "noAccessEmail": "Bu e-posta adresine artik erisemiyor musun?",
+      "termsOfService": "Hizmet Kosullari",
+      "privacyPolicy": "Gizlilik Politikasi",
+      "cookiePolicy": "Cerez Politikasi"
+    },
+    "messages": {
+      "nameHelp": "Gercek adini kullanmak, erisimi kaybedersen hesabini kurtarmani kolaylastirir.",
+      "emailHelp": "Ordnary hizmetlerine erismek icin is veya kisisel e-postani kullan.",
+      "summaryPrivacy": "Ordnary hesap bilgilerin herkese acik degildir.",
+      "verifyEmailLookFor": "notification@ordnary.com adresinden gelen bir e-posta ara. Spam veya sosyal klasorunu da kontrol etmen gerekebilir.",
+      "termsAgreement": "\"Bitir\"e tiklayarak Hizmet Kosullarimizi, Gizlilik Politikamizi kabul eder ve Cerez Politikamizi okudugunu onaylarsin.",
+      "footerAgreement": "Devam ederek Hizmet Kosullarimizi, Gizlilik Politikamizi ve gecerli veri isleme kurallarini okudugunu ve kabul ettigini onaylarsin. Ayrica platformu kullaniminla ilgili temel hesap ve guvenlik bildirimlerini almayi da kabul edersin.",
+      "emailMissing": "E-posta adresi gerekli.",
+      "resendCodeError": "Kod yeniden gonderilirken beklenmeyen bir hata olustu.",
+      "invalidInput": "Gecersiz giris.",
+      "credentialsPrompt": "Giris yapmak icin {identifier} ile iliskili sifreyi gir.",
+      "checkEmailPrompt": "Giris yapmak icin {identifier} adresine gonderdigimiz kodu gir.",
+      "termsIntro": "Bitir'e dokunarak sunlari kabul edersin"
+    },
+    "validation": {
+      "emailRequired": "E-posta adresi gerekli.",
+      "passwordRequired": "Sifre gerekli.",
+      "passwordMin": "Sifre en az 12 karakter olmalidir.",
+      "passwordMax": "Sifre 128 karakterden uzun olamaz.",
+      "emailInvalid": "Lutfen gecerli bir e-posta adresi gir.",
+      "displayNameMin": "Gorunen ad en az 2 karakter olmali.",
+      "resetTokenRequired": "Sifirlama belirteci gerekli.",
+      "verificationTokenRequired": "Dogrulama belirteci gerekli."
+    },
+    "errors": {
+      "invalidInput": "Gecersiz giris.",
+      "genericLoginFailed": "Giris yapilamadi. Lutfen tekrar dene.",
+      "loginInvalidCredentials": "Gecersiz e-posta veya sifre.",
+      "accountLocked": "Hesabin kilitli veya askiya alinmis.",
+      "passwordIncorrect": "Girdigin sifre yanlis.",
+      "notAuthenticated": "Kimligin dogrulanmadi.",
+      "registrationMissingInfo": "Gerekli kayit bilgileri eksik.",
+      "registrationEmailExists": "Bu e-posta ile zaten bir hesap var.",
+      "systemNoDefaultTenant": "Sistem hatasi: varsayilan tenant bulunamadi.",
+      "registrationFailed": "Kayit basarisiz oldu. Lutfen tekrar dene.",
+      "invalidVerificationRequest": "Gecersiz dogrulama istegi.",
+      "accountNotFound": "Hesap bulunamadi.",
+      "verificationCodeInvalidOrExpired": "Gecersiz veya suresi dolmus dogrulama kodu.",
+      "verificationFailedTryAgain": "Dogrulama basarisiz oldu. Lutfen tekrar dene.",
+      "invalidRequest": "Gecersiz istek.",
+      "userNotFound": "Kullanici bulunamadi.",
+      "codeInvalidOrExpired": "Gecersiz veya suresi dolmus kod.",
+      "verificationFailed": "Dogrulama basarisiz oldu.",
+      "missingInformation": "Bilgi eksik.",
+      "passwordResetFailed": "Sifre sifirlama basarisiz oldu.",
+      "emailMissing": "E-posta adresi eksik.",
+      "resendCodeFailed": "Kod yeniden gonderilemedi. Lutfen tekrar dene."
+    },
+    "months": ["Ocak", "Subat", "Mart", "Nisan", "Mayis", "Haziran", "Temmuz", "Agustos", "Eylul", "Ekim", "Kasim", "Aralik"]
+  }
+}

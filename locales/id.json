@@ -1,0 +1,141 @@
+{
+  "global": {
+    "accountCenterTitle": "Pusat Akun",
+    "accountCenterSubtitle": "Kelola pengalaman yang terhubung dan pengaturan akun Anda di seluruh teknologi Ordnary.",
+    "learnMore": "Pelajari lebih lanjut",
+    "loading": "Memuat..."
+  },
+  "nav": {
+    "profiles": "Profil",
+    "connectedExperiences": "Pengalaman yang terhubung",
+    "passwordAndSecurity": "Kata sandi dan keamanan",
+    "personalDetails": "Detail pribadi",
+    "permissions": "Informasi dan izin Anda",
+    "adPreferences": "Preferensi iklan",
+    "payments": "Ordnary Pay",
+    "accounts": "Akun"
+  },
+  "profiles": {
+    "title": "Profil",
+    "description": "Kelola pengalaman yang terhubung dan pengaturan akun Anda di seluruh teknologi Ordnary.",
+    "addAccounts": "Tambahkan akun"
+  },
+  "auth": {
+    "titles": {
+      "accountNotFound": "Buat akun Ordnary baru?",
+      "registrationName": "Siapa nama Anda?",
+      "registrationBirthday": "Kapan ulang tahun Anda?",
+      "registrationPassword": "Buat kata sandi",
+      "saveLoginInfo": "Simpan info login?",
+      "registrationReview": "Selesaikan pembuatan akun Anda",
+      "verifyEmailCode": "Masukkan kode konfirmasi",
+      "editEmail": "Apa alamat email Anda?",
+      "loginCodeEntry": "Periksa email Anda",
+      "recoveryCodeEntry": "Konfirmasi akun Anda",
+      "resetPassword": "Buat kata sandi baru",
+      "passwordEntry": "Masukkan kata sandi Anda",
+      "identifierLookup": "Apa email Anda?"
+    },
+    "descriptions": {
+      "identifierLookup": "Masukkan email Anda untuk masuk ke akun Ordnary atau membuat akun baru.",
+      "passwordEntry": "Untuk masuk, masukkan kata sandi yang terkait dengan {identifier}.",
+      "accountNotFound": "Kami tidak dapat menemukan akun Ordnary untuk {email}. Mungkin Anda belum membuatnya. Jika sudah, akun tersebut mungkin menggunakan identitas lain.",
+      "registrationName": "Nama ini akan digunakan untuk pemulihan akun dan komunikasi tentang akun Anda. Nama ini tidak akan terlihat oleh publik.",
+      "registrationBirthday": "Gunakan tanggal lahir Anda sendiri, meskipun akun ini untuk bisnis atau hal lain. Informasi ini tidak akan dipublikasikan.",
+      "registrationPassword": "Buat kata sandi dengan setidaknya 6 karakter. Kata sandi harus sulit ditebak orang lain.",
+      "saveLoginInfo": "Kami akan menyimpan info login akun Anda sehingga Anda tidak perlu memasukkannya lagi lain kali.",
+      "verifyEmailCode": "Masukkan kode 6 digit yang dikirim ke {identifier} untuk mengonfirmasi akun Anda.",
+      "editEmail": "Masukkan alamat email yang dapat kami hubungi. Alamat ini akan digunakan untuk login dan pengelolaan akun, serta tidak akan terlihat oleh publik.",
+      "loginCodeEntry": "Untuk masuk, masukkan kode yang kami kirim ke {identifier}. Anda mungkin perlu memeriksa folder spam atau sosial.",
+      "recoveryCodeEntry": "Kami telah mengirim kode ke {identifier}. Masukkan kode tersebut untuk mengonfirmasi akun Anda.",
+      "resetPassword": "Anda akan menggunakan kata sandi ini untuk masuk ke Akun Ordnary Anda. Gunakan setidaknya 6 huruf dan angka."
+    },
+    "buttons": {
+      "createNewAccount": "Buat akun baru",
+      "alreadyHaveAccount": "Saya sudah punya akun",
+      "next": "Berikutnya",
+      "save": "Simpan",
+      "notNow": "Nanti saja",
+      "finish": "Selesai",
+      "resendCode": "Kirim ulang kode",
+      "enterPassword": "Masukkan kata sandi",
+      "forgotPassword": "Lupa kata sandi?",
+      "switchAccount": "Ganti akun",
+      "yes": "Ya",
+      "no": "Tidak"
+    },
+    "labels": {
+      "name": "Nama",
+      "firstName": "Nama depan",
+      "lastName": "Nama belakang",
+      "day": "Hari",
+      "month": "Bulan",
+      "year": "Tahun",
+      "dateOfBirth": "Tanggal lahir",
+      "confirmationCode": "Kode konfirmasi",
+      "email": "Alamat email",
+      "password": "Kata sandi",
+      "newPassword": "Kata sandi baru",
+      "logoutOthers": "Keluar dari semua perangkat lain untuk memastikan tidak ada orang lain yang masih bisa mengakses akun Anda",
+      "marketingEmails": "Saya ingin menerima email tentang aplikasi, rekomendasi, dan penawaran untuk Ordnary Identity."
+    },
+    "links": {
+      "whyNeedBirthday": "Mengapa saya perlu memberikan tanggal lahir?",
+      "learnMore": "Pelajari lebih lanjut",
+      "editEmail": "Ubah alamat email",
+      "noAccessEmail": "Tidak lagi memiliki akses ke alamat email ini?",
+      "termsOfService": "Ketentuan Layanan",
+      "privacyPolicy": "Kebijakan Privasi",
+      "cookiePolicy": "Kebijakan Cookie"
+    },
+    "messages": {
+      "nameHelp": "Menggunakan nama asli memudahkan pemulihan akun jika Anda kehilangan akses.",
+      "emailHelp": "Gunakan email kerja atau pribadi Anda untuk mengakses layanan Ordnary.",
+      "summaryPrivacy": "Detail akun Ordnary Anda tidak bersifat publik.",
+      "verifyEmailLookFor": "Cari email dari notification@ordnary.com. Anda mungkin perlu memeriksa folder spam atau sosial.",
+      "termsAgreement": "Dengan mengeklik \"Selesai\", Anda menyetujui Ketentuan Layanan, Kebijakan Privasi, dan menyatakan bahwa Anda telah membaca Kebijakan Cookie kami.",
+      "footerAgreement": "Dengan melanjutkan, Anda mengakui bahwa Anda telah membaca dan menyetujui Ketentuan Layanan, Kebijakan Privasi, dan pedoman pemrosesan data yang berlaku. Anda juga setuju untuk menerima pemberitahuan penting terkait akun dan keamanan sehubungan dengan penggunaan platform.",
+      "emailMissing": "Alamat email wajib diisi.",
+      "resendCodeError": "Terjadi kesalahan tak terduga saat mengirim ulang kode.",
+      "invalidInput": "Input tidak valid.",
+      "credentialsPrompt": "Untuk masuk, masukkan kata sandi yang terkait dengan {identifier}.",
+      "checkEmailPrompt": "Untuk masuk, masukkan kode yang kami kirim ke {identifier}.",
+      "termsIntro": "Dengan mengetuk Selesai, Anda menyetujui"
+    },
+    "validation": {
+      "emailRequired": "Alamat email wajib diisi.",
+      "passwordRequired": "Kata sandi wajib diisi.",
+      "passwordMin": "Kata sandi harus terdiri dari minimal 12 karakter.",
+      "passwordMax": "Kata sandi tidak boleh lebih dari 128 karakter.",
+      "emailInvalid": "Masukkan alamat email yang valid.",
+      "displayNameMin": "Nama tampilan harus terdiri dari minimal 2 karakter.",
+      "resetTokenRequired": "Token reset wajib diisi.",
+      "verificationTokenRequired": "Token verifikasi wajib diisi."
+    },
+    "errors": {
+      "invalidInput": "Input tidak valid.",
+      "genericLoginFailed": "Tidak dapat masuk. Silakan coba lagi.",
+      "loginInvalidCredentials": "Email atau kata sandi tidak valid.",
+      "accountLocked": "Akun Anda dikunci atau ditangguhkan.",
+      "passwordIncorrect": "Kata sandi yang Anda masukkan salah.",
+      "notAuthenticated": "Anda belum diautentikasi.",
+      "registrationMissingInfo": "Informasi pendaftaran yang wajib masih kurang.",
+      "registrationEmailExists": "Akun dengan email ini sudah ada.",
+      "systemNoDefaultTenant": "Kesalahan sistem: tenant default tidak ditemukan.",
+      "registrationFailed": "Pendaftaran gagal. Silakan coba lagi.",
+      "invalidVerificationRequest": "Permintaan verifikasi tidak valid.",
+      "accountNotFound": "Akun tidak ditemukan.",
+      "verificationCodeInvalidOrExpired": "Kode verifikasi tidak valid atau sudah kedaluwarsa.",
+      "verificationFailedTryAgain": "Verifikasi gagal. Silakan coba lagi.",
+      "invalidRequest": "Permintaan tidak valid.",
+      "userNotFound": "Pengguna tidak ditemukan.",
+      "codeInvalidOrExpired": "Kode tidak valid atau sudah kedaluwarsa.",
+      "verificationFailed": "Verifikasi gagal.",
+      "missingInformation": "Informasi kurang.",
+      "passwordResetFailed": "Reset kata sandi gagal.",
+      "emailMissing": "Alamat email tidak ada.",
+      "resendCodeFailed": "Gagal mengirim ulang kode. Silakan coba lagi."
+    },
+    "months": ["Januari", "Februari", "Maret", "April", "Mei", "Juni", "Juli", "Agustus", "September", "Oktober", "November", "Desember"]
+  }
+}

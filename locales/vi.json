@@ -1,0 +1,141 @@
+{
+  "global": {
+    "accountCenterTitle": "Trung tam tai khoan",
+    "accountCenterSubtitle": "Quan ly cac trai nghiem da ket noi va cai dat tai khoan cua ban tren toan bo cong nghe Ordnary.",
+    "learnMore": "Tim hieu them",
+    "loading": "Dang tai..."
+  },
+  "nav": {
+    "profiles": "Ho so",
+    "connectedExperiences": "Trai nghiem da ket noi",
+    "passwordAndSecurity": "Mat khau va bao mat",
+    "personalDetails": "Thong tin ca nhan",
+    "permissions": "Thong tin va quyen cua ban",
+    "adPreferences": "Tuy chon quang cao",
+    "payments": "Ordnary Pay",
+    "accounts": "Tai khoan"
+  },
+  "profiles": {
+    "title": "Ho so",
+    "description": "Quan ly cac trai nghiem da ket noi va cai dat tai khoan cua ban tren toan bo cong nghe Ordnary.",
+    "addAccounts": "Them tai khoan"
+  },
+  "auth": {
+    "titles": {
+      "accountNotFound": "Tao tai khoan Ordnary moi?",
+      "registrationName": "Ten cua ban la gi?",
+      "registrationBirthday": "Ngay sinh cua ban la khi nao?",
+      "registrationPassword": "Tao mat khau",
+      "saveLoginInfo": "Luu thong tin dang nhap?",
+      "registrationReview": "Hoan tat viec tao tai khoan",
+      "verifyEmailCode": "Nhap ma xac nhan",
+      "editEmail": "Dia chi email cua ban la gi?",
+      "loginCodeEntry": "Kiem tra email cua ban",
+      "recoveryCodeEntry": "Xac nhan tai khoan cua ban",
+      "resetPassword": "Tao mat khau moi",
+      "passwordEntry": "Nhap mat khau cua ban",
+      "identifierLookup": "Email cua ban la gi?"
+    },
+    "descriptions": {
+      "identifierLookup": "Nhap email cua ban de dang nhap vao tai khoan Ordnary hoac tao tai khoan moi.",
+      "passwordEntry": "De dang nhap, hay nhap mat khau gan voi {identifier}.",
+      "accountNotFound": "Chung toi khong tim thay tai khoan Ordnary cho {email}. Co the ban chua tao tai khoan. Neu da tao, tai khoan co the dang dung mot dinh danh khac.",
+      "registrationName": "Ten nay se duoc dung de khoi phuc tai khoan va lien lac lien quan den tai khoan cua ban. Ten nay se khong hien thi cong khai.",
+      "registrationBirthday": "Hay dung ngay sinh that cua ban, ngay ca khi tai khoan nay dung cho doanh nghiep hay muc dich khac. Thong tin nay se khong cong khai.",
+      "registrationPassword": "Tao mat khau co it nhat 6 ky tu. Mat khau nen la thu ma nguoi khac khong de doan duoc.",
+      "saveLoginInfo": "Chung toi se luu thong tin dang nhap de ban khong phai nhap lai vao lan sau.",
+      "verifyEmailCode": "Nhap ma 6 chu so da duoc gui den {identifier} de xac nhan tai khoan cua ban.",
+      "editEmail": "Nhap dia chi email ma chung toi co the lien he voi ban. Dia chi nay se duoc dung cho dang nhap va quan ly tai khoan, va se khong hien thi cong khai.",
+      "loginCodeEntry": "De dang nhap, hay nhap ma chung toi da gui den {identifier}. Ban co the can kiem tra thu muc spam hoac xa hoi.",
+      "recoveryCodeEntry": "Chung toi da gui mot ma den {identifier}. Nhap ma do de xac nhan tai khoan cua ban.",
+      "resetPassword": "Ban se dung mat khau nay de dang nhap vao Tai khoan Ordnary cua minh. Hay dung it nhat 6 chu cai va so."
+    },
+    "buttons": {
+      "createNewAccount": "Tao tai khoan moi",
+      "alreadyHaveAccount": "Toi da co tai khoan",
+      "next": "Tiep theo",
+      "save": "Luu",
+      "notNow": "De sau",
+      "finish": "Hoan tat",
+      "resendCode": "Gui lai ma",
+      "enterPassword": "Nhap mat khau",
+      "forgotPassword": "Quen mat khau?",
+      "switchAccount": "Chuyen tai khoan",
+      "yes": "Co",
+      "no": "Khong"
+    },
+    "labels": {
+      "name": "Ten",
+      "firstName": "Ten",
+      "lastName": "Ho",
+      "day": "Ngay",
+      "month": "Thang",
+      "year": "Nam",
+      "dateOfBirth": "Ngay sinh",
+      "confirmationCode": "Ma xac nhan",
+      "email": "Dia chi email",
+      "password": "Mat khau",
+      "newPassword": "Mat khau moi",
+      "logoutOthers": "Dang xuat o moi noi khac de dam bao khong ai khac con co the truy cap vao tai khoan cua ban",
+      "marketingEmails": "Toi muon nhan email ve ung dung, goi y va uu dai cho Ordnary Identity."
+    },
+    "links": {
+      "whyNeedBirthday": "Tai sao toi can cung cap ngay sinh?",
+      "learnMore": "Tim hieu them",
+      "editEmail": "Chinh sua dia chi email",
+      "noAccessEmail": "Ban khong con truy cap duoc dia chi email nay nua?",
+      "termsOfService": "Dieu khoan dich vu",
+      "privacyPolicy": "Chinh sach quyen rieng tu",
+      "cookiePolicy": "Chinh sach cookie"
+    },
+    "messages": {
+      "nameHelp": "Su dung ten that giup viec khoi phuc tai khoan de dang hon neu ban mat quyen truy cap.",
+      "emailHelp": "Su dung email cong viec hoac ca nhan de truy cap cac dich vu Ordnary.",
+      "summaryPrivacy": "Thong tin chi tiet tai khoan Ordnary cua ban khong cong khai.",
+      "verifyEmailLookFor": "Hay tim email tu notification@ordnary.com. Ban co the can kiem tra ca thu muc spam hoac xa hoi.",
+      "termsAgreement": "Bang cach nhap \"Hoan tat\", ban dong y voi Dieu khoan dich vu, Chinh sach quyen rieng tu va xac nhan rang ban da doc Chinh sach cookie cua chung toi.",
+      "footerAgreement": "Bang cach tiep tuc, ban xac nhan rang ban da doc va dong y voi Dieu khoan dich vu, Chinh sach quyen rieng tu va cac huong dan xu ly du lieu ap dung. Ban dong thoi dong y nhan cac thong bao thiet yeu ve tai khoan va bao mat lien quan den viec su dung nen tang.",
+      "emailMissing": "Dia chi email la bat buoc.",
+      "resendCodeError": "Da xay ra loi khong mong doi khi gui lai ma.",
+      "invalidInput": "Du lieu nhap khong hop le.",
+      "credentialsPrompt": "De dang nhap, hay nhap mat khau gan voi {identifier}.",
+      "checkEmailPrompt": "De dang nhap, hay nhap ma chung toi da gui den {identifier}.",
+      "termsIntro": "Bang cach cham Hoan tat, ban dong y voi"
+    },
+    "validation": {
+      "emailRequired": "Dia chi email la bat buoc.",
+      "passwordRequired": "Mat khau la bat buoc.",
+      "passwordMin": "Mat khau phai co it nhat 12 ky tu.",
+      "passwordMax": "Mat khau khong duoc vuot qua 128 ky tu.",
+      "emailInvalid": "Vui long nhap dia chi email hop le.",
+      "displayNameMin": "Ten hien thi phai co it nhat 2 ky tu.",
+      "resetTokenRequired": "Token dat lai la bat buoc.",
+      "verificationTokenRequired": "Token xac minh la bat buoc."
+    },
+    "errors": {
+      "invalidInput": "Du lieu nhap khong hop le.",
+      "genericLoginFailed": "Khong the dang nhap. Vui long thu lai.",
+      "loginInvalidCredentials": "Email hoac mat khau khong hop le.",
+      "accountLocked": "Tai khoan cua ban da bi khoa hoac tam ngung.",
+      "passwordIncorrect": "Mat khau ban nhap khong dung.",
+      "notAuthenticated": "Ban chua duoc xac thuc.",
+      "registrationMissingInfo": "Thieu thong tin dang ky bat buoc.",
+      "registrationEmailExists": "Da ton tai tai khoan voi email nay.",
+      "systemNoDefaultTenant": "Loi he thong: khong tim thay tenant mac dinh.",
+      "registrationFailed": "Dang ky that bai. Vui long thu lai.",
+      "invalidVerificationRequest": "Yeu cau xac minh khong hop le.",
+      "accountNotFound": "Khong tim thay tai khoan.",
+      "verificationCodeInvalidOrExpired": "Ma xac minh khong hop le hoac da het han.",
+      "verificationFailedTryAgain": "Xac minh that bai. Vui long thu lai.",
+      "invalidRequest": "Yeu cau khong hop le.",
+      "userNotFound": "Khong tim thay nguoi dung.",
+      "codeInvalidOrExpired": "Ma khong hop le hoac da het han.",
+      "verificationFailed": "Xac minh that bai.",
+      "missingInformation": "Thieu thong tin.",
+      "passwordResetFailed": "Dat lai mat khau that bai.",
+      "emailMissing": "Thieu dia chi email.",
+      "resendCodeFailed": "Khong gui lai duoc ma. Vui long thu lai."
+    },
+    "months": ["thang 1", "thang 2", "thang 3", "thang 4", "thang 5", "thang 6", "thang 7", "thang 8", "thang 9", "thang 10", "thang 11", "thang 12"]
+  }
+}

@@ -1,0 +1,141 @@
+{
+  "global": {
+    "accountCenterTitle": "Centro account",
+    "accountCenterSubtitle": "Gestisci le tue esperienze collegate e le impostazioni del tuo account su tutte le tecnologie Ordnary.",
+    "learnMore": "Scopri di piu",
+    "loading": "Caricamento..."
+  },
+  "nav": {
+    "profiles": "Profili",
+    "connectedExperiences": "Esperienze collegate",
+    "passwordAndSecurity": "Password e sicurezza",
+    "personalDetails": "Dati personali",
+    "permissions": "Le tue informazioni e autorizzazioni",
+    "adPreferences": "Preferenze pubblicitarie",
+    "payments": "Ordnary Pay",
+    "accounts": "Account"
+  },
+  "profiles": {
+    "title": "Profili",
+    "description": "Gestisci le tue esperienze collegate e le impostazioni del tuo account su tutte le tecnologie Ordnary.",
+    "addAccounts": "Aggiungi account"
+  },
+  "auth": {
+    "titles": {
+      "accountNotFound": "Creare un nuovo account Ordnary?",
+      "registrationName": "Come ti chiami?",
+      "registrationBirthday": "Quando compi gli anni?",
+      "registrationPassword": "Crea una password",
+      "saveLoginInfo": "Salvare le informazioni di accesso?",
+      "registrationReview": "Completa la creazione del tuo account",
+      "verifyEmailCode": "Inserisci il codice di conferma",
+      "editEmail": "Qual e il tuo indirizzo email?",
+      "loginCodeEntry": "Controlla la tua email",
+      "recoveryCodeEntry": "Conferma il tuo account",
+      "resetPassword": "Crea una nuova password",
+      "passwordEntry": "Inserisci la tua password",
+      "identifierLookup": "Qual e la tua email?"
+    },
+    "descriptions": {
+      "identifierLookup": "Inserisci la tua email per accedere a un account Ordnary o crearne uno nuovo.",
+      "passwordEntry": "Per accedere, inserisci la password associata a {identifier}.",
+      "accountNotFound": "Non riusciamo a trovare un account Ordnary per {email}. Potresti non averne ancora creato uno. Se ne hai gia creato uno, potrebbe usare un identificatore diverso.",
+      "registrationName": "Questo nome verra utilizzato per il recupero dell'account e per le comunicazioni sul tuo account. Non sara visibile al pubblico.",
+      "registrationBirthday": "Usa la tua vera data di nascita, anche se questo account e per un'azienda o altro. Queste informazioni non saranno pubbliche.",
+      "registrationPassword": "Crea una password di almeno 6 caratteri. Dovrebbe essere qualcosa che gli altri non possano indovinare.",
+      "saveLoginInfo": "Salveremo le informazioni di accesso del tuo account in modo che tu non debba inserirle di nuovo la prossima volta.",
+      "verifyEmailCode": "Inserisci il codice a 6 cifre inviato a {identifier} per confermare il tuo account.",
+      "editEmail": "Inserisci l'indirizzo email al quale possiamo contattarti. Questo indirizzo verra usato per l'accesso e la gestione dell'account e non sara visibile al pubblico.",
+      "loginCodeEntry": "Per accedere, inserisci il codice che abbiamo inviato a {identifier}. Potresti dover controllare la cartella spam o social.",
+      "recoveryCodeEntry": "Abbiamo inviato un codice a {identifier}. Inserisci quel codice per confermare il tuo account.",
+      "resetPassword": "Userai questa password per accedere al tuo account Ordnary. Usa almeno 6 lettere e numeri."
+    },
+    "buttons": {
+      "createNewAccount": "Crea un nuovo account",
+      "alreadyHaveAccount": "Ho gia un account",
+      "next": "Avanti",
+      "save": "Salva",
+      "notNow": "Non ora",
+      "finish": "Fine",
+      "resendCode": "Invia di nuovo il codice",
+      "enterPassword": "Inserisci password",
+      "forgotPassword": "Password dimenticata?",
+      "switchAccount": "Cambia account",
+      "yes": "Si",
+      "no": "No"
+    },
+    "labels": {
+      "name": "Nome",
+      "firstName": "Nome",
+      "lastName": "Cognome",
+      "day": "Giorno",
+      "month": "Mese",
+      "year": "Anno",
+      "dateOfBirth": "Data di nascita",
+      "confirmationCode": "Codice di conferma",
+      "email": "Indirizzo email",
+      "password": "Password",
+      "newPassword": "Nuova password",
+      "logoutOthers": "Esci da tutti gli altri dispositivi per assicurarti che nessun altro possa ancora accedere al tuo account",
+      "marketingEmails": "Vorrei ricevere email su app, consigli e offerte per Ordnary Identity."
+    },
+    "links": {
+      "whyNeedBirthday": "Perche devo fornire la mia data di nascita?",
+      "learnMore": "Scopri di piu",
+      "editEmail": "Modifica indirizzo email",
+      "noAccessEmail": "Non hai piu accesso a questo indirizzo email?",
+      "termsOfService": "Termini di servizio",
+      "privacyPolicy": "Informativa sulla privacy",
+      "cookiePolicy": "Informativa sui cookie"
+    },
+    "messages": {
+      "nameHelp": "Usare il tuo vero nome rende piu semplice recuperare il tuo account se perdi l'accesso.",
+      "emailHelp": "Usa la tua email aziendale o personale per accedere ai servizi Ordnary.",
+      "summaryPrivacy": "I dettagli del tuo account Ordnary non sono pubblici.",
+      "verifyEmailLookFor": "Cerca un'email da notification@ordnary.com. Potresti dover controllare anche le cartelle spam o social.",
+      "termsAgreement": "Facendo clic su \"Fine\", accetti i nostri Termini di servizio, l'Informativa sulla privacy e confermi di aver letto la nostra Informativa sui cookie.",
+      "footerAgreement": "Continuando, riconosci di aver letto e accettato i nostri Termini di servizio, l'Informativa sulla privacy e le linee guida applicabili sul trattamento dei dati. Accetti inoltre di ricevere notifiche essenziali relative ad account e sicurezza collegate al tuo utilizzo della piattaforma.",
+      "emailMissing": "L'indirizzo email e obbligatorio.",
+      "resendCodeError": "Si e verificato un errore imprevisto durante il nuovo invio del codice.",
+      "invalidInput": "Input non valido.",
+      "credentialsPrompt": "Per accedere, inserisci la password associata a {identifier}.",
+      "checkEmailPrompt": "Per accedere, inserisci il codice che abbiamo inviato a {identifier}.",
+      "termsIntro": "Toccando Fine, accetti i nostri"
+    },
+    "validation": {
+      "emailRequired": "L'indirizzo email e obbligatorio.",
+      "passwordRequired": "La password e obbligatoria.",
+      "passwordMin": "La password deve contenere almeno 12 caratteri.",
+      "passwordMax": "La password non puo superare i 128 caratteri.",
+      "emailInvalid": "Inserisci un indirizzo email valido.",
+      "displayNameMin": "Il nome visualizzato deve contenere almeno 2 caratteri.",
+      "resetTokenRequired": "Il token di reimpostazione e obbligatorio.",
+      "verificationTokenRequired": "Il token di verifica e obbligatorio."
+    },
+    "errors": {
+      "invalidInput": "Input non valido.",
+      "genericLoginFailed": "Impossibile effettuare l'accesso. Riprova.",
+      "loginInvalidCredentials": "Email o password non valide.",
+      "accountLocked": "Il tuo account e bloccato o sospeso.",
+      "passwordIncorrect": "La password inserita non e corretta.",
+      "notAuthenticated": "Non sei autenticato.",
+      "registrationMissingInfo": "Mancano informazioni di registrazione obbligatorie.",
+      "registrationEmailExists": "Esiste gia un account con questa email.",
+      "systemNoDefaultTenant": "Errore di sistema: nessun tenant predefinito trovato.",
+      "registrationFailed": "Registrazione non riuscita. Riprova.",
+      "invalidVerificationRequest": "Richiesta di verifica non valida.",
+      "accountNotFound": "Account non trovato.",
+      "verificationCodeInvalidOrExpired": "Codice di verifica non valido o scaduto.",
+      "verificationFailedTryAgain": "Verifica non riuscita. Riprova.",
+      "invalidRequest": "Richiesta non valida.",
+      "userNotFound": "Utente non trovato.",
+      "codeInvalidOrExpired": "Codice non valido o scaduto.",
+      "verificationFailed": "Verifica non riuscita.",
+      "missingInformation": "Informazioni mancanti.",
+      "passwordResetFailed": "Reimpostazione della password non riuscita.",
+      "emailMissing": "Indirizzo email mancante.",
+      "resendCodeFailed": "Invio del codice non riuscito. Riprova."
+    },
+    "months": ["gennaio", "febbraio", "marzo", "aprile", "maggio", "giugno", "luglio", "agosto", "settembre", "ottobre", "novembre", "dicembre"]
+  }
+}

@@ -1,0 +1,141 @@
+{
+  "global": {
+    "accountCenterTitle": "계정 센터",
+    "accountCenterSubtitle": "Ordnary 기술 전반에서 연결된 환경과 계정 설정을 관리하세요.",
+    "learnMore": "자세히 알아보기",
+    "loading": "불러오는 중..."
+  },
+  "nav": {
+    "profiles": "프로필",
+    "connectedExperiences": "연결된 환경",
+    "passwordAndSecurity": "비밀번호 및 보안",
+    "personalDetails": "개인 정보",
+    "permissions": "내 정보 및 권한",
+    "adPreferences": "광고 환경설정",
+    "payments": "Ordnary Pay",
+    "accounts": "계정"
+  },
+  "profiles": {
+    "title": "프로필",
+    "description": "Ordnary 기술 전반에서 연결된 환경과 계정 설정을 관리하세요.",
+    "addAccounts": "계정 추가"
+  },
+  "auth": {
+    "titles": {
+      "accountNotFound": "새 Ordnary 계정을 만들까요?",
+      "registrationName": "이름이 무엇인가요?",
+      "registrationBirthday": "생일이 언제인가요?",
+      "registrationPassword": "비밀번호 만들기",
+      "saveLoginInfo": "로그인 정보를 저장할까요?",
+      "registrationReview": "계정 만들기를 완료하세요",
+      "verifyEmailCode": "확인 코드 입력",
+      "editEmail": "이메일 주소가 무엇인가요?",
+      "loginCodeEntry": "이메일을 확인하세요",
+      "recoveryCodeEntry": "계정을 확인하세요",
+      "resetPassword": "새 비밀번호 만들기",
+      "passwordEntry": "비밀번호 입력",
+      "identifierLookup": "이메일이 무엇인가요?"
+    },
+    "descriptions": {
+      "identifierLookup": "Ordnary 계정에 로그인하거나 새 계정을 만들려면 이메일을 입력하세요.",
+      "passwordEntry": "로그인하려면 {identifier} 와 연결된 비밀번호를 입력하세요.",
+      "accountNotFound": "{email} 에 대한 Ordnary 계정을 찾을 수 없습니다. 아직 계정을 만들지 않았을 수 있습니다. 이미 만들었다면 다른 식별자를 사용하고 있을 수 있습니다.",
+      "registrationName": "이 이름은 계정 복구와 계정 관련 안내에 사용되며 공개되지 않습니다.",
+      "registrationBirthday": "이 계정이 회사용이더라도 본인의 실제 생년월일을 사용하세요. 이 정보는 공개되지 않습니다.",
+      "registrationPassword": "최소 6자의 비밀번호를 만드세요. 다른 사람이 추측하기 어려운 것이어야 합니다.",
+      "saveLoginInfo": "다음에 다시 입력하지 않도록 로그인 정보를 저장합니다.",
+      "verifyEmailCode": "계정을 확인하려면 {identifier} 로 전송된 6자리 코드를 입력하세요.",
+      "editEmail": "연락 가능한 이메일 주소를 입력하세요. 이 주소는 로그인과 계정 관리에 사용되며 공개되지 않습니다.",
+      "loginCodeEntry": "로그인하려면 {identifier} 로 보낸 코드를 입력하세요. 스팸함이나 소셜 메일함도 확인해야 할 수 있습니다.",
+      "recoveryCodeEntry": "{identifier} 로 코드를 보냈습니다. 계정을 확인하려면 해당 코드를 입력하세요.",
+      "resetPassword": "이 비밀번호로 Ordnary 계정에 로그인하게 됩니다. 최소 6개의 문자와 숫자를 사용하세요."
+    },
+    "buttons": {
+      "createNewAccount": "새 계정 만들기",
+      "alreadyHaveAccount": "이미 계정이 있습니다",
+      "next": "다음",
+      "save": "저장",
+      "notNow": "지금은 안 함",
+      "finish": "완료",
+      "resendCode": "코드 다시 보내기",
+      "enterPassword": "비밀번호 입력",
+      "forgotPassword": "비밀번호를 잊으셨나요?",
+      "switchAccount": "계정 전환",
+      "yes": "예",
+      "no": "아니요"
+    },
+    "labels": {
+      "name": "이름",
+      "firstName": "이름",
+      "lastName": "성",
+      "day": "일",
+      "month": "월",
+      "year": "년",
+      "dateOfBirth": "생년월일",
+      "confirmationCode": "확인 코드",
+      "email": "이메일 주소",
+      "password": "비밀번호",
+      "newPassword": "새 비밀번호",
+      "logoutOthers": "다른 모든 위치에서 로그아웃하여 다른 사람이 계속 계정에 접근하지 못하도록 합니다",
+      "marketingEmails": "Ordnary Identity 앱, 추천 및 혜택에 대한 이메일을 받고 싶습니다."
+    },
+    "links": {
+      "whyNeedBirthday": "왜 생년월일이 필요한가요?",
+      "learnMore": "자세히 알아보기",
+      "editEmail": "이메일 주소 수정",
+      "noAccessEmail": "이 이메일 주소에 더 이상 접근할 수 없나요?",
+      "termsOfService": "서비스 약관",
+      "privacyPolicy": "개인정보 처리방침",
+      "cookiePolicy": "쿠키 정책"
+    },
+    "messages": {
+      "nameHelp": "실명을 사용하면 접근 권한을 잃었을 때 계정을 더 쉽게 복구할 수 있습니다.",
+      "emailHelp": "회사 또는 개인 이메일을 사용하여 Ordnary 서비스에 접근하세요.",
+      "summaryPrivacy": "Ordnary 계정 정보는 공개되지 않습니다.",
+      "verifyEmailLookFor": "notification@ordnary.com 에서 온 이메일을 확인하세요. 스팸함이나 소셜 메일함도 확인해야 할 수 있습니다.",
+      "termsAgreement": "\"완료\"를 클릭하면 서비스 약관, 개인정보 처리방침에 동의하고 쿠키 정책을 읽었음을 확인하는 것입니다.",
+      "footerAgreement": "계속 진행하면 서비스 약관, 개인정보 처리방침 및 적용 가능한 데이터 처리 지침을 읽고 동의했음을 인정하는 것입니다. 또한 플랫폼 사용과 관련된 필수 계정 및 보안 알림을 받는 데 동의하게 됩니다.",
+      "emailMissing": "이메일 주소는 필수입니다.",
+      "resendCodeError": "코드를 다시 보내는 중 예상치 못한 오류가 발생했습니다.",
+      "invalidInput": "잘못된 입력입니다.",
+      "credentialsPrompt": "로그인하려면 {identifier} 와 연결된 비밀번호를 입력하세요.",
+      "checkEmailPrompt": "로그인하려면 {identifier} 로 보낸 코드를 입력하세요.",
+      "termsIntro": "완료를 누르면 다음에 동의하게 됩니다"
+    },
+    "validation": {
+      "emailRequired": "이메일 주소는 필수입니다.",
+      "passwordRequired": "비밀번호는 필수입니다.",
+      "passwordMin": "비밀번호는 최소 12자여야 합니다.",
+      "passwordMax": "비밀번호는 128자를 초과할 수 없습니다.",
+      "emailInvalid": "유효한 이메일 주소를 입력하세요.",
+      "displayNameMin": "표시 이름은 최소 2자여야 합니다.",
+      "resetTokenRequired": "재설정 토큰이 필요합니다.",
+      "verificationTokenRequired": "확인 토큰이 필요합니다."
+    },
+    "errors": {
+      "invalidInput": "잘못된 입력입니다.",
+      "genericLoginFailed": "로그인할 수 없습니다. 다시 시도하세요.",
+      "loginInvalidCredentials": "유효하지 않은 이메일 또는 비밀번호입니다.",
+      "accountLocked": "계정이 잠겼거나 정지되었습니다.",
+      "passwordIncorrect": "입력한 비밀번호가 올바르지 않습니다.",
+      "notAuthenticated": "인증되지 않았습니다.",
+      "registrationMissingInfo": "필수 가입 정보가 누락되었습니다.",
+      "registrationEmailExists": "이 이메일로 이미 계정이 존재합니다.",
+      "systemNoDefaultTenant": "시스템 오류: 기본 테넌트를 찾을 수 없습니다.",
+      "registrationFailed": "가입에 실패했습니다. 다시 시도하세요.",
+      "invalidVerificationRequest": "잘못된 확인 요청입니다.",
+      "accountNotFound": "계정을 찾을 수 없습니다.",
+      "verificationCodeInvalidOrExpired": "유효하지 않거나 만료된 확인 코드입니다.",
+      "verificationFailedTryAgain": "확인에 실패했습니다. 다시 시도하세요.",
+      "invalidRequest": "잘못된 요청입니다.",
+      "userNotFound": "사용자를 찾을 수 없습니다.",
+      "codeInvalidOrExpired": "유효하지 않거나 만료된 코드입니다.",
+      "verificationFailed": "확인에 실패했습니다.",
+      "missingInformation": "정보가 누락되었습니다.",
+      "passwordResetFailed": "비밀번호 재설정에 실패했습니다.",
+      "emailMissing": "이메일 주소가 없습니다.",
+      "resendCodeFailed": "코드를 다시 보내지 못했습니다. 다시 시도하세요."
+    },
+    "months": ["1월", "2월", "3월", "4월", "5월", "6월", "7월", "8월", "9월", "10월", "11월", "12월"]
+  }
+}

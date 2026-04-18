@@ -1,0 +1,141 @@
+{
+  "global": {
+    "accountCenterTitle": "Centrul de cont",
+    "accountCenterSubtitle": "Gestioneaza experientele conectate si setarile contului tau in toate tehnologiile Ordnary.",
+    "learnMore": "Afla mai multe",
+    "loading": "Se incarca..."
+  },
+  "nav": {
+    "profiles": "Profiluri",
+    "connectedExperiences": "Experiente conectate",
+    "passwordAndSecurity": "Parola si securitate",
+    "personalDetails": "Detalii personale",
+    "permissions": "Informatiile si permisiunile tale",
+    "adPreferences": "Preferinte pentru reclame",
+    "payments": "Ordnary Pay",
+    "accounts": "Conturi"
+  },
+  "profiles": {
+    "title": "Profiluri",
+    "description": "Gestioneaza experientele conectate si setarile contului tau in toate tehnologiile Ordnary.",
+    "addAccounts": "Adauga conturi"
+  },
+  "auth": {
+    "titles": {
+      "accountNotFound": "Creezi un cont Ordnary nou?",
+      "registrationName": "Cum te numesti?",
+      "registrationBirthday": "Cand este ziua ta de nastere?",
+      "registrationPassword": "Creeaza o parola",
+      "saveLoginInfo": "Salvezi informatiile de autentificare?",
+      "registrationReview": "Finalizeaza crearea contului tau",
+      "verifyEmailCode": "Introdu codul de confirmare",
+      "editEmail": "Care este adresa ta de e-mail?",
+      "loginCodeEntry": "Verifica-ti e-mailul",
+      "recoveryCodeEntry": "Confirma-ti contul",
+      "resetPassword": "Creeaza o parola noua",
+      "passwordEntry": "Introdu parola ta",
+      "identifierLookup": "Care este e-mailul tau?"
+    },
+    "descriptions": {
+      "identifierLookup": "Introdu e-mailul tau pentru a te autentifica intr-un cont Ordnary sau pentru a crea unul nou.",
+      "passwordEntry": "Pentru autentificare, introdu parola asociata cu {identifier}.",
+      "accountNotFound": "Nu putem gasi un cont Ordnary pentru {email}. Este posibil sa nu fi creat inca unul. Daca ai creat unul, acesta poate folosi un alt identificator.",
+      "registrationName": "Acest nume va fi folosit pentru recuperarea contului si pentru comunicari despre contul tau. Nu va fi vizibil public.",
+      "registrationBirthday": "Foloseste data ta reala de nastere, chiar daca acest cont este pentru o companie sau pentru altceva. Aceste informatii nu vor fi publice.",
+      "registrationPassword": "Creeaza o parola cu cel putin 6 caractere. Ar trebui sa fie ceva ce altii nu pot ghici.",
+      "saveLoginInfo": "Vom salva informatiile de autentificare ale contului tau astfel incat sa nu trebuiasca sa le introduci din nou data viitoare.",
+      "verifyEmailCode": "Introdu codul din 6 cifre trimis la {identifier} pentru a-ti confirma contul.",
+      "editEmail": "Introdu adresa de e-mail la care te putem contacta. Aceasta adresa va fi folosita pentru autentificare si administrarea contului si nu va fi vizibila public.",
+      "loginCodeEntry": "Pentru autentificare, introdu codul pe care l-am trimis la {identifier}. Este posibil sa trebuiasca sa verifici folderul de spam sau social.",
+      "recoveryCodeEntry": "Am trimis un cod la {identifier}. Introdu acel cod pentru a-ti confirma contul.",
+      "resetPassword": "Vei folosi aceasta parola pentru a te autentifica in Contul tau Ordnary. Foloseste cel putin 6 litere si cifre."
+    },
+    "buttons": {
+      "createNewAccount": "Creeaza un cont nou",
+      "alreadyHaveAccount": "Am deja un cont",
+      "next": "Urmatorul",
+      "save": "Salveaza",
+      "notNow": "Nu acum",
+      "finish": "Finalizeaza",
+      "resendCode": "Retrimite codul",
+      "enterPassword": "Introdu parola",
+      "forgotPassword": "Ai uitat parola?",
+      "switchAccount": "Schimba contul",
+      "yes": "Da",
+      "no": "Nu"
+    },
+    "labels": {
+      "name": "Nume",
+      "firstName": "Prenume",
+      "lastName": "Nume de familie",
+      "day": "Zi",
+      "month": "Luna",
+      "year": "An",
+      "dateOfBirth": "Data nasterii",
+      "confirmationCode": "Cod de confirmare",
+      "email": "Adresa de e-mail",
+      "password": "Parola",
+      "newPassword": "Parola noua",
+      "logoutOthers": "Deconecteaza-te din toate celelalte locuri pentru a te asigura ca nimeni altcineva nu mai poate accesa contul tau",
+      "marketingEmails": "As dori sa primesc e-mailuri despre aplicatii, recomandari si oferte pentru Ordnary Identity."
+    },
+    "links": {
+      "whyNeedBirthday": "De ce trebuie sa furnizez data mea de nastere?",
+      "learnMore": "Afla mai multe",
+      "editEmail": "Editeaza adresa de e-mail",
+      "noAccessEmail": "Nu mai ai acces la aceasta adresa de e-mail?",
+      "termsOfService": "Termeni de utilizare",
+      "privacyPolicy": "Politica de confidentialitate",
+      "cookiePolicy": "Politica privind cookie-urile"
+    },
+    "messages": {
+      "nameHelp": "Folosirea numelui tau real face mai usoara recuperarea contului daca pierzi accesul.",
+      "emailHelp": "Foloseste e-mailul tau de serviciu sau personal pentru a accesa serviciile Ordnary.",
+      "summaryPrivacy": "Detaliile contului tau Ordnary nu sunt publice.",
+      "verifyEmailLookFor": "Cauta un e-mail de la notification@ordnary.com. Poate fi necesar sa verifici si folderul de spam sau social.",
+      "termsAgreement": "Prin apasarea pe \"Finalizeaza\", esti de acord cu Termenii de utilizare, Politica de confidentialitate si confirmi ca ai citit Politica privind cookie-urile.",
+      "footerAgreement": "Continuand, recunosti ca ai citit si esti de acord cu Termenii de utilizare, Politica de confidentialitate si ghidurile aplicabile privind procesarea datelor. De asemenea, esti de acord sa primesti notificari esentiale despre cont si securitate legate de utilizarea platformei.",
+      "emailMissing": "Adresa de e-mail este obligatorie.",
+      "resendCodeError": "A aparut o eroare neasteptata la retrimiterea codului.",
+      "invalidInput": "Date de intrare nevalide.",
+      "credentialsPrompt": "Pentru autentificare, introdu parola asociata cu {identifier}.",
+      "checkEmailPrompt": "Pentru autentificare, introdu codul pe care l-am trimis la {identifier}.",
+      "termsIntro": "Prin atingerea Finalizeaza, esti de acord cu"
+    },
+    "validation": {
+      "emailRequired": "Adresa de e-mail este obligatorie.",
+      "passwordRequired": "Parola este obligatorie.",
+      "passwordMin": "Parola trebuie sa aiba cel putin 12 caractere.",
+      "passwordMax": "Parola nu poate depasi 128 de caractere.",
+      "emailInvalid": "Introdu o adresa de e-mail valida.",
+      "displayNameMin": "Numele afisat trebuie sa aiba cel putin 2 caractere.",
+      "resetTokenRequired": "Tokenul de resetare este obligatoriu.",
+      "verificationTokenRequired": "Tokenul de verificare este obligatoriu."
+    },
+    "errors": {
+      "invalidInput": "Date de intrare nevalide.",
+      "genericLoginFailed": "Nu te-am putut autentifica. Te rugam sa incerci din nou.",
+      "loginInvalidCredentials": "E-mail sau parola invalida.",
+      "accountLocked": "Contul tau este blocat sau suspendat.",
+      "passwordIncorrect": "Parola introdusa este incorecta.",
+      "notAuthenticated": "Nu esti autentificat.",
+      "registrationMissingInfo": "Lipsesc informatii obligatorii pentru inregistrare.",
+      "registrationEmailExists": "Exista deja un cont cu acest e-mail.",
+      "systemNoDefaultTenant": "Eroare de sistem: nu a fost gasit tenantul implicit.",
+      "registrationFailed": "Inregistrarea a esuat. Te rugam sa incerci din nou.",
+      "invalidVerificationRequest": "Cerere de verificare invalida.",
+      "accountNotFound": "Contul nu a fost gasit.",
+      "verificationCodeInvalidOrExpired": "Cod de verificare invalid sau expirat.",
+      "verificationFailedTryAgain": "Verificarea a esuat. Te rugam sa incerci din nou.",
+      "invalidRequest": "Cerere invalida.",
+      "userNotFound": "Utilizatorul nu a fost gasit.",
+      "codeInvalidOrExpired": "Cod invalid sau expirat.",
+      "verificationFailed": "Verificarea a esuat.",
+      "missingInformation": "Lipsesc informatii.",
+      "passwordResetFailed": "Resetarea parolei a esuat.",
+      "emailMissing": "Lipseste adresa de e-mail.",
+      "resendCodeFailed": "Retrimiterea codului a esuat. Te rugam sa incerci din nou."
+    },
+    "months": ["ianuarie", "februarie", "martie", "aprilie", "mai", "iunie", "iulie", "august", "septembrie", "octombrie", "noiembrie", "decembrie"]
+  }
+}

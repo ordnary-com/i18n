@@ -1,0 +1,141 @@
+{
+  "global": {
+    "accountCenterTitle": "מרכז החשבון",
+    "accountCenterSubtitle": "נהלו את החוויות המחוברות ואת הגדרות החשבון שלכם בכל טכנולוגיות Ordnary.",
+    "learnMore": "למידע נוסף",
+    "loading": "טוען..."
+  },
+  "nav": {
+    "profiles": "פרופילים",
+    "connectedExperiences": "חוויות מחוברות",
+    "passwordAndSecurity": "סיסמה ואבטחה",
+    "personalDetails": "פרטים אישיים",
+    "permissions": "המידע וההרשאות שלכם",
+    "adPreferences": "העדפות פרסום",
+    "payments": "Ordnary Pay",
+    "accounts": "חשבונות"
+  },
+  "profiles": {
+    "title": "פרופילים",
+    "description": "נהלו את החוויות המחוברות ואת הגדרות החשבון שלכם בכל טכנולוגיות Ordnary.",
+    "addAccounts": "הוספת חשבונות"
+  },
+  "auth": {
+    "titles": {
+      "accountNotFound": "ליצור חשבון Ordnary חדש?",
+      "registrationName": "מה השם שלכם?",
+      "registrationBirthday": "מתי יום ההולדת שלכם?",
+      "registrationPassword": "יצירת סיסמה",
+      "saveLoginInfo": "לשמור את פרטי ההתחברות?",
+      "registrationReview": "סיימו ליצור את החשבון שלכם",
+      "verifyEmailCode": "הזינו קוד אישור",
+      "editEmail": "מהי כתובת האימייל שלכם?",
+      "loginCodeEntry": "בדקו את האימייל שלכם",
+      "recoveryCodeEntry": "אשרו את החשבון שלכם",
+      "resetPassword": "יצירת סיסמה חדשה",
+      "passwordEntry": "הזינו את הסיסמה שלכם",
+      "identifierLookup": "מהו האימייל שלכם?"
+    },
+    "descriptions": {
+      "identifierLookup": "הזינו את האימייל שלכם כדי להתחבר לחשבון Ordnary או ליצור חשבון חדש.",
+      "passwordEntry": "כדי להתחבר, הזינו את הסיסמה המשויכת ל-{identifier}.",
+      "accountNotFound": "לא הצלחנו למצוא חשבון Ordnary עבור {email}. ייתכן שעדיין לא יצרתם אחד. אם כבר יצרתם, ייתכן שהוא משתמש במזהה אחר.",
+      "registrationName": "שם זה ישמש לשחזור החשבון ולתקשורת בנוגע לחשבון שלכם. הוא לא יהיה גלוי לציבור.",
+      "registrationBirthday": "השתמשו בתאריך הלידה האמיתי שלכם, גם אם החשבון מיועד לעסק או למשהו אחר. מידע זה לא יהיה ציבורי.",
+      "registrationPassword": "צרו סיסמה באורך של לפחות 6 תווים. היא צריכה להיות משהו שאחרים לא יוכלו לנחש.",
+      "saveLoginInfo": "נשמור את פרטי ההתחברות של החשבון שלכם כדי שלא תצטרכו להזין אותם שוב בפעם הבאה.",
+      "verifyEmailCode": "הזינו את הקוד בן 6 הספרות שנשלח אל {identifier} כדי לאשר את החשבון שלכם.",
+      "editEmail": "הזינו את כתובת האימייל שבה ניתן ליצור איתכם קשר. כתובת זו תשמש להתחברות ולניהול החשבון ולא תהיה גלויה לציבור.",
+      "loginCodeEntry": "כדי להתחבר, הזינו את הקוד ששלחנו אל {identifier}. ייתכן שתצטרכו לבדוק גם את תיקיית הספאם או החברתי.",
+      "recoveryCodeEntry": "שלחנו קוד אל {identifier}. הזינו את הקוד הזה כדי לאשר את החשבון שלכם.",
+      "resetPassword": "תשתמשו בסיסמה הזו כדי להתחבר לחשבון Ordnary שלכם. השתמשו בלפחות 6 אותיות ומספרים."
+    },
+    "buttons": {
+      "createNewAccount": "יצירת חשבון חדש",
+      "alreadyHaveAccount": "כבר יש לי חשבון",
+      "next": "הבא",
+      "save": "שמור",
+      "notNow": "לא עכשיו",
+      "finish": "סיום",
+      "resendCode": "שליחת הקוד שוב",
+      "enterPassword": "הזנת סיסמה",
+      "forgotPassword": "שכחתם סיסמה?",
+      "switchAccount": "החלפת חשבון",
+      "yes": "כן",
+      "no": "לא"
+    },
+    "labels": {
+      "name": "שם",
+      "firstName": "שם פרטי",
+      "lastName": "שם משפחה",
+      "day": "יום",
+      "month": "חודש",
+      "year": "שנה",
+      "dateOfBirth": "תאריך לידה",
+      "confirmationCode": "קוד אישור",
+      "email": "כתובת אימייל",
+      "password": "סיסמה",
+      "newPassword": "סיסמה חדשה",
+      "logoutOthers": "התנתקו מכל מקום אחר כדי לוודא שאף אחד אחר לא יכול עדיין לגשת לחשבון שלכם",
+      "marketingEmails": "אני רוצה לקבל אימיילים על אפליקציות, המלצות והצעות עבור Ordnary Identity."
+    },
+    "links": {
+      "whyNeedBirthday": "למה צריך לספק את תאריך הלידה שלי?",
+      "learnMore": "למידע נוסף",
+      "editEmail": "עריכת כתובת האימייל",
+      "noAccessEmail": "אין לכם יותר גישה לכתובת האימייל הזו?",
+      "termsOfService": "תנאי השירות",
+      "privacyPolicy": "מדיניות הפרטיות",
+      "cookiePolicy": "מדיניות העוגיות"
+    },
+    "messages": {
+      "nameHelp": "שימוש בשם האמיתי שלכם מקל על שחזור החשבון אם תאבדו גישה.",
+      "emailHelp": "השתמשו באימייל העבודה או האימייל האישי שלכם כדי לגשת לשירותי Ordnary.",
+      "summaryPrivacy": "פרטי חשבון Ordnary שלכם אינם ציבוריים.",
+      "verifyEmailLookFor": "חפשו אימייל מ-notification@ordnary.com. ייתכן שתצטרכו לבדוק גם את תיקיית הספאם או החברתי.",
+      "termsAgreement": "בלחיצה על \"סיום\" אתם מסכימים לתנאי השירות, למדיניות הפרטיות ומאשרים שקראתם את מדיניות העוגיות שלנו.",
+      "footerAgreement": "בהמשך הפעולה אתם מאשרים שקראתם ומסכימים לתנאי השירות, למדיניות הפרטיות ולהנחיות עיבוד הנתונים החלות. אתם גם מסכימים לקבל התראות חיוניות על החשבון והאבטחה הקשורות לשימוש בפלטפורמה.",
+      "emailMissing": "כתובת אימייל היא שדה חובה.",
+      "resendCodeError": "אירעה שגיאה בלתי צפויה בעת שליחת הקוד מחדש.",
+      "invalidInput": "קלט לא חוקי.",
+      "credentialsPrompt": "כדי להתחבר, הזינו את הסיסמה המשויכת ל-{identifier}.",
+      "checkEmailPrompt": "כדי להתחבר, הזינו את הקוד ששלחנו אל {identifier}.",
+      "termsIntro": "בלחיצה על סיום אתם מסכימים ל"
+    },
+    "validation": {
+      "emailRequired": "כתובת אימייל היא שדה חובה.",
+      "passwordRequired": "סיסמה היא שדה חובה.",
+      "passwordMin": "הסיסמה חייבת להכיל לפחות 12 תווים.",
+      "passwordMax": "הסיסמה לא יכולה לעלות על 128 תווים.",
+      "emailInvalid": "אנא הזינו כתובת אימייל תקינה.",
+      "displayNameMin": "שם התצוגה חייב להכיל לפחות 2 תווים.",
+      "resetTokenRequired": "אסימון איפוס הוא שדה חובה.",
+      "verificationTokenRequired": "אסימון אימות הוא שדה חובה."
+    },
+    "errors": {
+      "invalidInput": "קלט לא חוקי.",
+      "genericLoginFailed": "לא ניתן להתחבר. נסו שוב.",
+      "loginInvalidCredentials": "אימייל או סיסמה לא חוקיים.",
+      "accountLocked": "החשבון שלכם נעול או מושעה.",
+      "passwordIncorrect": "הסיסמה שהזנתם אינה נכונה.",
+      "notAuthenticated": "אינכם מאומתים.",
+      "registrationMissingInfo": "חסר מידע רישום נדרש.",
+      "registrationEmailExists": "כבר קיים חשבון עם האימייל הזה.",
+      "systemNoDefaultTenant": "שגיאת מערכת: לא נמצא tenant ברירת מחדל.",
+      "registrationFailed": "הרישום נכשל. נסו שוב.",
+      "invalidVerificationRequest": "בקשת אימות לא חוקית.",
+      "accountNotFound": "החשבון לא נמצא.",
+      "verificationCodeInvalidOrExpired": "קוד האימות לא חוקי או שפג תוקפו.",
+      "verificationFailedTryAgain": "האימות נכשל. נסו שוב.",
+      "invalidRequest": "בקשה לא חוקית.",
+      "userNotFound": "המשתמש לא נמצא.",
+      "codeInvalidOrExpired": "הקוד לא חוקי או שפג תוקפו.",
+      "verificationFailed": "האימות נכשל.",
+      "missingInformation": "חסר מידע.",
+      "passwordResetFailed": "איפוס הסיסמה נכשל.",
+      "emailMissing": "כתובת האימייל חסרה.",
+      "resendCodeFailed": "שליחת הקוד מחדש נכשלה. נסו שוב."
+    },
+    "months": ["ינואר", "פברואר", "מרץ", "אפריל", "מאי", "יוני", "יולי", "אוגוסט", "ספטמבר", "אוקטובר", "נובמבר", "דצמבר"]
+  }
+}

@@ -1,0 +1,141 @@
+{
+  "global": {
+    "accountCenterTitle": "Centrum uctu",
+    "accountCenterSubtitle": "Spravujte sve pripojene zazitky a nastaveni uctu napric technologiemi Ordnary.",
+    "learnMore": "Zjistit vice",
+    "loading": "Nacita se..."
+  },
+  "nav": {
+    "profiles": "Profily",
+    "connectedExperiences": "Pripojene zazitky",
+    "passwordAndSecurity": "Heslo a zabezpeceni",
+    "personalDetails": "Osobni udaje",
+    "permissions": "Vase informace a opravneni",
+    "adPreferences": "Preference reklam",
+    "payments": "Ordnary Pay",
+    "accounts": "Ucty"
+  },
+  "profiles": {
+    "title": "Profily",
+    "description": "Spravujte sve pripojene zazitky a nastaveni uctu napric technologiemi Ordnary.",
+    "addAccounts": "Pridat ucty"
+  },
+  "auth": {
+    "titles": {
+      "accountNotFound": "Vytvorit novy ucet Ordnary?",
+      "registrationName": "Jak se jmenujete?",
+      "registrationBirthday": "Kdy mate narozeniny?",
+      "registrationPassword": "Vytvorte heslo",
+      "saveLoginInfo": "Ulozit prihlasovaci udaje?",
+      "registrationReview": "Dokoncete vytvoreni sveho uctu",
+      "verifyEmailCode": "Zadejte potvrzovaci kod",
+      "editEmail": "Jakou mate e-mailovou adresu?",
+      "loginCodeEntry": "Zkontrolujte svuj e-mail",
+      "recoveryCodeEntry": "Potvrdte svuj ucet",
+      "resetPassword": "Vytvorte nove heslo",
+      "passwordEntry": "Zadejte sve heslo",
+      "identifierLookup": "Jaky je vas e-mail?"
+    },
+    "descriptions": {
+      "identifierLookup": "Zadejte svuj e-mail pro prihlaseni k uctu Ordnary nebo pro vytvoreni noveho uctu.",
+      "passwordEntry": "Pro prihlaseni zadejte heslo spojene s {identifier}.",
+      "accountNotFound": "Nemuzeme najit ucet Ordnary pro {email}. Mozna jste si ho jeste nevytvorili. Pokud ano, muze pouzivat jiny identifikator.",
+      "registrationName": "Toto jmeno bude pouzito pro obnovu uctu a komunikaci o vasem uctu. Nebude verejne viditelne.",
+      "registrationBirthday": "Pouzijte sve skutecne datum narozeni, i kdyz je tento ucet urcen pro firmu nebo neco jineho. Tyto informace nebudou verejne.",
+      "registrationPassword": "Vytvorte heslo alespon o 6 znacich. Melo by byt neco, co ostatni neuhodnou.",
+      "saveLoginInfo": "Ulozime prihlasovaci udaje vaseho uctu, abyste je priste nemuseli zadavat znovu.",
+      "verifyEmailCode": "Zadejte 6mistny kod odeslany na {identifier}, abyste potvrdili svuj ucet.",
+      "editEmail": "Zadejte e-mailovou adresu, na ktere vas muzeme kontaktovat. Tato adresa bude pouzita pro prihlaseni a spravu uctu a nebude verejne viditelna.",
+      "loginCodeEntry": "Pro prihlaseni zadejte kod, ktery jsme odeslali na {identifier}. Mozna budete muset zkontrolovat slozku spamu nebo socialnich zprav.",
+      "recoveryCodeEntry": "Poslali jsme kod na {identifier}. Zadejte tento kod pro potvrzeni uctu.",
+      "resetPassword": "Toto heslo budete pouzivat pro prihlaseni ke svemu uctu Ordnary. Pouzijte alespon 6 pismen a cisel."
+    },
+    "buttons": {
+      "createNewAccount": "Vytvorit novy ucet",
+      "alreadyHaveAccount": "Uz mam ucet",
+      "next": "Dalsi",
+      "save": "Ulozit",
+      "notNow": "Ted ne",
+      "finish": "Dokoncit",
+      "resendCode": "Poslat kod znovu",
+      "enterPassword": "Zadat heslo",
+      "forgotPassword": "Zapomneli jste heslo?",
+      "switchAccount": "Prepnout ucet",
+      "yes": "Ano",
+      "no": "Ne"
+    },
+    "labels": {
+      "name": "Jmeno",
+      "firstName": "Krestni jmeno",
+      "lastName": "Prijmeni",
+      "day": "Den",
+      "month": "Mesic",
+      "year": "Rok",
+      "dateOfBirth": "Datum narozeni",
+      "confirmationCode": "Potvrzovaci kod",
+      "email": "E-mailova adresa",
+      "password": "Heslo",
+      "newPassword": "Nove heslo",
+      "logoutOthers": "Odhlaste se vsude jinde, abyste meli jistotu, ze k vasemu uctu uz nikdo jiny nema pristup",
+      "marketingEmails": "Chci dostavat e-maily o aplikacich, doporucenich a nabidkach pro Ordnary Identity."
+    },
+    "links": {
+      "whyNeedBirthday": "Proc musim zadat sve datum narozeni?",
+      "learnMore": "Zjistit vice",
+      "editEmail": "Upravit e-mailovou adresu",
+      "noAccessEmail": "Uz nemate pristup k teto e-mailove adrese?",
+      "termsOfService": "Podminky sluzby",
+      "privacyPolicy": "Zasady ochrany soukromi",
+      "cookiePolicy": "Zasady souboru cookie"
+    },
+    "messages": {
+      "nameHelp": "Pouziti vaseho skutecneho jmena usnadni obnovu uctu, pokud ztratite pristup.",
+      "emailHelp": "Pouzijte svuj pracovni nebo osobni e-mail pro pristup ke sluzbam Ordnary.",
+      "summaryPrivacy": "Udaje vaseho uctu Ordnary nejsou verejne.",
+      "verifyEmailLookFor": "Hledejte e-mail od notification@ordnary.com. Mozna budete muset zkontrolovat i slozku spamu nebo socialnich zprav.",
+      "termsAgreement": "Kliknutim na \"Dokoncit\" souhlasite s Podminkami sluzby, Zasadami ochrany soukromi a potvrzujete, ze jste cetli nase Zasady souboru cookie.",
+      "footerAgreement": "Pokračováním potvrzujete, že jste si přečetli a souhlasíte s našimi Podmínkami služby, Zásadami ochrany soukromí a příslušnými pokyny pro zpracování dat. Také souhlasíte s přijímáním důležitých oznámení o účtu a zabezpečení souvisejících s používáním platformy.",
+      "emailMissing": "E-mailova adresa je povinna.",
+      "resendCodeError": "Pri opakovanem odeslani kodu doslo k neocekavane chybe.",
+      "invalidInput": "Neplatny vstup.",
+      "credentialsPrompt": "Pro prihlaseni zadejte heslo spojene s {identifier}.",
+      "checkEmailPrompt": "Pro prihlaseni zadejte kod, ktery jsme poslali na {identifier}.",
+      "termsIntro": "Klepnutim na Dokoncit souhlasite s"
+    },
+    "validation": {
+      "emailRequired": "E-mailova adresa je povinna.",
+      "passwordRequired": "Heslo je povinne.",
+      "passwordMin": "Heslo musi mit alespon 12 znaku.",
+      "passwordMax": "Heslo nesmi presahnout 128 znaku.",
+      "emailInvalid": "Zadejte platnou e-mailovou adresu.",
+      "displayNameMin": "Zobrazovane jmeno musi mit alespon 2 znaky.",
+      "resetTokenRequired": "Resetovaci token je povinny.",
+      "verificationTokenRequired": "Overovaci token je povinny."
+    },
+    "errors": {
+      "invalidInput": "Neplatny vstup.",
+      "genericLoginFailed": "Nepodarilo se vas prihlasit. Zkuste to znovu.",
+      "loginInvalidCredentials": "Neplatny e-mail nebo heslo.",
+      "accountLocked": "Vas ucet je uzamcen nebo pozastaven.",
+      "passwordIncorrect": "Zadane heslo neni spravne.",
+      "notAuthenticated": "Nejste overeni.",
+      "registrationMissingInfo": "Chybi povinne registracni udaje.",
+      "registrationEmailExists": "Ucet s timto e-mailem jiz existuje.",
+      "systemNoDefaultTenant": "Systemova chyba: nebyl nalezen vychozi tenant.",
+      "registrationFailed": "Registrace se nezdarila. Zkuste to znovu.",
+      "invalidVerificationRequest": "Neplatny pozadavek na overeni.",
+      "accountNotFound": "Ucet nebyl nalezen.",
+      "verificationCodeInvalidOrExpired": "Neplatny nebo expirovany overovaci kod.",
+      "verificationFailedTryAgain": "Overeni se nezdarilo. Zkuste to znovu.",
+      "invalidRequest": "Neplatny pozadavek.",
+      "userNotFound": "Uzivatel nebyl nalezen.",
+      "codeInvalidOrExpired": "Neplatny nebo expirovany kod.",
+      "verificationFailed": "Overeni se nezdarilo.",
+      "missingInformation": "Chybejici informace.",
+      "passwordResetFailed": "Obnoveni hesla se nezdarilo.",
+      "emailMissing": "Chybi e-mailova adresa.",
+      "resendCodeFailed": "Opetovne odeslani kodu se nezdarilo. Zkuste to znovu."
+    },
+    "months": ["leden", "unor", "brezen", "duben", "kveten", "cerven", "cervenec", "srpen", "zari", "rijen", "listopad", "prosinec"]
+  }
+}

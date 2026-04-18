@@ -1,0 +1,141 @@
+{
+  "global": {
+    "accountCenterTitle": "Fiokkozpont",
+    "accountCenterSubtitle": "Kezeld a csatlakoztatott elmenyeidet es fiokbeallitasaidat az Ordnary technologiakon keresztul.",
+    "learnMore": "Tovabbi informacio",
+    "loading": "Betoltes..."
+  },
+  "nav": {
+    "profiles": "Profilok",
+    "connectedExperiences": "Kapcsolodott elmenyek",
+    "passwordAndSecurity": "Jelszo es biztonsag",
+    "personalDetails": "Szemelyes adatok",
+    "permissions": "Adataid es jogosultsagaid",
+    "adPreferences": "Hirdetesi beallitasok",
+    "payments": "Ordnary Pay",
+    "accounts": "Fiokok"
+  },
+  "profiles": {
+    "title": "Profilok",
+    "description": "Kezeld a csatlakoztatott elmenyeidet es fiokbeallitasaidat az Ordnary technologiakon keresztul.",
+    "addAccounts": "Fiokok hozzaadasa"
+  },
+  "auth": {
+    "titles": {
+      "accountNotFound": "Letrehozol egy uj Ordnary-fiokot?",
+      "registrationName": "Mi a neved?",
+      "registrationBirthday": "Mikor van a szuletesnapod?",
+      "registrationPassword": "Jelszo letrehozasa",
+      "saveLoginInfo": "Mented a bejelentkezesi adatokat?",
+      "registrationReview": "Fejezd be a fiok letrehozasat",
+      "verifyEmailCode": "Add meg a megerosito kodot",
+      "editEmail": "Mi az e-mail-cimed?",
+      "loginCodeEntry": "Ellenorizd az e-mailjeidet",
+      "recoveryCodeEntry": "Erositsd meg a fiokodat",
+      "resetPassword": "Uj jelszo letrehozasa",
+      "passwordEntry": "Add meg a jelszavadat",
+      "identifierLookup": "Mi az e-mail-cimed?"
+    },
+    "descriptions": {
+      "identifierLookup": "Add meg az e-mail-cimedet, hogy bejelentkezz egy Ordnary-fiokba vagy letrehozz egy ujat.",
+      "passwordEntry": "A bejelentkezeshez add meg a(z) {identifier} azonositohoz tartozo jelszot.",
+      "accountNotFound": "Nem talalunk Ordnary-fiokot ehhez: {email}. Lehet, hogy meg nem hoztal letre ilyet. Ha igen, lehet, hogy mas azonositohoz kapcsolodik.",
+      "registrationName": "Ezt a nevet a fiok helyreallitasahoz es a fiokoddal kapcsolatos kommunikaciohoz hasznaljuk. Nem lesz nyilvanosan lathato.",
+      "registrationBirthday": "Hasznald a sajat szuletesi datumodat, akkor is, ha ez a fiok vallalkozashoz vagy valami mashoz tartozik. Ez az informacio nem lesz nyilvanos.",
+      "registrationPassword": "Hozz letre egy legalabb 6 karakteres jelszot. Olyan legyen, amit masok nem tudnak kitalalni.",
+      "saveLoginInfo": "Elmentjuk a fiokod bejelentkezesi adatait, hogy legkozelebb ne kelljen ujra beirnod.",
+      "verifyEmailCode": "A fiokod megerositesehez add meg a(z) {identifier} cimre kuldott 6 jegyu kodot.",
+      "editEmail": "Add meg azt az e-mail-cimet, ahol kapcsolatba lephetunk veled. Ezt a cimet bejelentkezeshez es fiokkezeleshez hasznaljuk, es nem lesz nyilvanosan lathato.",
+      "loginCodeEntry": "A bejelentkezeshez add meg a(z) {identifier} cimre kuldott kodot. Lehet, hogy ellenorizned kell a spam vagy a kozossegi mappat is.",
+      "recoveryCodeEntry": "Kodot kuldtunk erre: {identifier}. Add meg azt a kodot a fiokod megerositesehez.",
+      "resetPassword": "Ezt a jelszot fogod hasznalni az Ordnary-fiokodba valo bejelentkezeshez. Hasznalj legalabb 6 betut es szamot."
+    },
+    "buttons": {
+      "createNewAccount": "Uj fiok letrehozasa",
+      "alreadyHaveAccount": "Mar van fiokom",
+      "next": "Tovabb",
+      "save": "Mentes",
+      "notNow": "Most nem",
+      "finish": "Befejezes",
+      "resendCode": "Kod ujrakuldese",
+      "enterPassword": "Jelszo megadasa",
+      "forgotPassword": "Elfelejtetted a jelszavadat?",
+      "switchAccount": "Fiok valtas",
+      "yes": "Igen",
+      "no": "Nem"
+    },
+    "labels": {
+      "name": "Nev",
+      "firstName": "Keresztnev",
+      "lastName": "Vezeteknev",
+      "day": "Nap",
+      "month": "Honap",
+      "year": "Ev",
+      "dateOfBirth": "Szuletesi datum",
+      "confirmationCode": "Megerosito kod",
+      "email": "E-mail-cim",
+      "password": "Jelszo",
+      "newPassword": "Uj jelszo",
+      "logoutOthers": "Jelentkezz ki minden mas helyrol, hogy megbizonyosodj rola, mas mar nem fer hozza a fiokodhoz",
+      "marketingEmails": "Szeretnek e-maileket kapni az Ordnary Identity alkalmazasairol, ajanlasairol es ajanlatairól."
+    },
+    "links": {
+      "whyNeedBirthday": "Miért kell megadnom a szuletesi datumomat?",
+      "learnMore": "Tovabbi informacio",
+      "editEmail": "E-mail-cim szerkesztese",
+      "noAccessEmail": "Mar nincs hozzaferesed ehhez az e-mail-cimhez?",
+      "termsOfService": "Szolgaltatasi feltetelek",
+      "privacyPolicy": "Adatvedelmi szabalyzat",
+      "cookiePolicy": "Cookie-szabalyzat"
+    },
+    "messages": {
+      "nameHelp": "A valodi neved hasznalata megkonnyiti a fiokod helyreallitasat, ha elveszited a hozzaferest.",
+      "emailHelp": "Munkahelyi vagy szemelyes e-mail-cimedet hasznald az Ordnary-szolgaltatasok eleresehez.",
+      "summaryPrivacy": "Az Ordnary-fiokod adatai nem nyilvanosak.",
+      "verifyEmailLookFor": "Keress egy e-mailt a notification@ordnary.com cimrol. Lehet, hogy a spam vagy kozossegi mappat is ellenorizned kell.",
+      "termsAgreement": "A \"Befejezes\" gombra kattintva elfogadod a Szolgaltatasi felteteleket, az Adatvedelmi szabalyzatot, es megerosited, hogy elolvastad a Cookie-szabalyzatot.",
+      "footerAgreement": "A folytatassal elismered, hogy elolvastad es elfogadod a Szolgaltatasi felteteleket, az Adatvedelmi szabalyzatot es a vonatkozo adatkezelesi iranyelveket. Emellett beleegyezel abba is, hogy a platform hasznalataval kapcsolatos lenyeges fiok- es biztonsagi ertesiteseket kapj.",
+      "emailMissing": "Az e-mail-cim kotelezo.",
+      "resendCodeError": "Varatlan hiba tortent a kod ujrakuldese kozben.",
+      "invalidInput": "Ervenytelen bemenet.",
+      "credentialsPrompt": "A bejelentkezeshez add meg a(z) {identifier} azonositohoz tartozo jelszot.",
+      "checkEmailPrompt": "A bejelentkezeshez add meg a(z) {identifier} cimre kuldott kodot.",
+      "termsIntro": "A Befejezes megnyomasaval elfogadod"
+    },
+    "validation": {
+      "emailRequired": "Az e-mail-cim kotelezo.",
+      "passwordRequired": "A jelszo kotelezo.",
+      "passwordMin": "A jelszonak legalabb 12 karakter hosszunak kell lennie.",
+      "passwordMax": "A jelszo nem lehet hosszabb 128 karakternel.",
+      "emailInvalid": "Adj meg ervenyes e-mail-cimet.",
+      "displayNameMin": "A megjelenitett nev legalabb 2 karakterbol kell alljon.",
+      "resetTokenRequired": "A visszaallitasi token kotelezo.",
+      "verificationTokenRequired": "Az ellenorzesi token kotelezo."
+    },
+    "errors": {
+      "invalidInput": "Ervenytelen bemenet.",
+      "genericLoginFailed": "Nem sikerult bejelentkeztetni. Kerdek, probald ujra.",
+      "loginInvalidCredentials": "Ervenytelen e-mail-cim vagy jelszo.",
+      "accountLocked": "A fiokod zarolva van vagy fel van fuggesztve.",
+      "passwordIncorrect": "A megadott jelszo helytelen.",
+      "notAuthenticated": "Nem vagy hitelesitve.",
+      "registrationMissingInfo": "Hianyzik a kotelezo regisztracios informacio.",
+      "registrationEmailExists": "Mar letezik fiok ezzel az e-mail-cimmel.",
+      "systemNoDefaultTenant": "Rendszerhiba: nem talalhato alapertelmezett tenant.",
+      "registrationFailed": "A regisztracio sikertelen volt. Kerdek, probald ujra.",
+      "invalidVerificationRequest": "Ervenytelen ellenorzesi kerelem.",
+      "accountNotFound": "A fiok nem talalhato.",
+      "verificationCodeInvalidOrExpired": "Ervenytelen vagy lejart ellenorzesi kod.",
+      "verificationFailedTryAgain": "Az ellenorzes sikertelen volt. Kerdek, probald ujra.",
+      "invalidRequest": "Ervenytelen kerelem.",
+      "userNotFound": "A felhasznalo nem talalhato.",
+      "codeInvalidOrExpired": "Ervenytelen vagy lejart kod.",
+      "verificationFailed": "Az ellenorzes sikertelen volt.",
+      "missingInformation": "Hianyzo informacio.",
+      "passwordResetFailed": "A jelszo visszaallitasa sikertelen volt.",
+      "emailMissing": "Hianyzik az e-mail-cim.",
+      "resendCodeFailed": "A kod ujrakuldese sikertelen volt. Kerdek, probald ujra."
+    },
+    "months": ["januar", "februar", "marcius", "aprilis", "majus", "junius", "julius", "augusztus", "szeptember", "oktober", "november", "december"]
+  }
+}

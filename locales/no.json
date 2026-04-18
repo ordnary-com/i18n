@@ -1,0 +1,141 @@
+{
+  "global": {
+    "accountCenterTitle": "Kontosenter",
+    "accountCenterSubtitle": "Administrer dine tilkoblede opplevelser og kontoinnstillinger pa tvers av Ordnary-teknologier.",
+    "learnMore": "Les mer",
+    "loading": "Laster..."
+  },
+  "nav": {
+    "profiles": "Profiler",
+    "connectedExperiences": "Tilkoblede opplevelser",
+    "passwordAndSecurity": "Passord og sikkerhet",
+    "personalDetails": "Personlige detaljer",
+    "permissions": "Din informasjon og dine tillatelser",
+    "adPreferences": "Annonsepreferanser",
+    "payments": "Ordnary Pay",
+    "accounts": "Kontoer"
+  },
+  "profiles": {
+    "title": "Profiler",
+    "description": "Administrer dine tilkoblede opplevelser og kontoinnstillinger pa tvers av Ordnary-teknologier.",
+    "addAccounts": "Legg til kontoer"
+  },
+  "auth": {
+    "titles": {
+      "accountNotFound": "Opprette en ny Ordnary-konto?",
+      "registrationName": "Hva heter du?",
+      "registrationBirthday": "Nar har du bursdag?",
+      "registrationPassword": "Opprett et passord",
+      "saveLoginInfo": "Lagre innloggingsinformasjon?",
+      "registrationReview": "Fullfor opprettelsen av kontoen din",
+      "verifyEmailCode": "Skriv inn bekreftelseskoden",
+      "editEmail": "Hva er e-postadressen din?",
+      "loginCodeEntry": "Sjekk e-posten din",
+      "recoveryCodeEntry": "Bekreft kontoen din",
+      "resetPassword": "Opprett et nytt passord",
+      "passwordEntry": "Skriv inn passordet ditt",
+      "identifierLookup": "Hva er e-posten din?"
+    },
+    "descriptions": {
+      "identifierLookup": "Skriv inn e-posten din for a logge inn pa en Ordnary-konto eller opprette en ny.",
+      "passwordEntry": "For a logge inn skriver du inn passordet som er knyttet til {identifier}.",
+      "accountNotFound": "Vi finner ingen Ordnary-konto for {email}. Du har kanskje ikke opprettet en ennå. Hvis du har gjort det, kan den bruke en annen identifikator.",
+      "registrationName": "Dette navnet vil bli brukt for gjenoppretting av konto og kommunikasjon om kontoen din. Det vil ikke vaere synlig for offentligheten.",
+      "registrationBirthday": "Bruk din egen fodselsdato, selv om denne kontoen er for en bedrift eller noe annet. Denne informasjonen vil ikke vaere offentlig.",
+      "registrationPassword": "Opprett et passord med minst 6 tegn. Det bor vaere noe andre ikke kan gjette.",
+      "saveLoginInfo": "Vi lagrer innloggingsinformasjonen for kontoen din, sa du slipper a skrive den inn igjen neste gang.",
+      "verifyEmailCode": "Skriv inn den 6-sifrede koden som ble sendt til {identifier} for a bekrefte kontoen din.",
+      "editEmail": "Skriv inn e-postadressen vi kan kontakte deg pa. Denne adressen vil bli brukt for innlogging og administrasjon av kontoen og vil ikke vaere offentlig synlig.",
+      "loginCodeEntry": "For a logge inn skriver du inn koden vi sendte til {identifier}. Du kan trenge a sjekke spam- eller sosiale mapper.",
+      "recoveryCodeEntry": "Vi har sendt en kode til {identifier}. Skriv inn den koden for a bekrefte kontoen din.",
+      "resetPassword": "Du vil bruke dette passordet for a logge inn pa Ordnary-kontoen din. Bruk minst 6 bokstaver og tall."
+    },
+    "buttons": {
+      "createNewAccount": "Opprett ny konto",
+      "alreadyHaveAccount": "Jeg har allerede en konto",
+      "next": "Neste",
+      "save": "Lagre",
+      "notNow": "Ikke nå",
+      "finish": "Fullfor",
+      "resendCode": "Send koden pa nytt",
+      "enterPassword": "Skriv inn passord",
+      "forgotPassword": "Glemt passord?",
+      "switchAccount": "Bytt konto",
+      "yes": "Ja",
+      "no": "Nei"
+    },
+    "labels": {
+      "name": "Navn",
+      "firstName": "Fornavn",
+      "lastName": "Etternavn",
+      "day": "Dag",
+      "month": "Maned",
+      "year": "Ar",
+      "dateOfBirth": "Fodselsdato",
+      "confirmationCode": "Bekreftelseskode",
+      "email": "E-postadresse",
+      "password": "Passord",
+      "newPassword": "Nytt passord",
+      "logoutOthers": "Logg ut overalt ellers for a sikre at ingen andre fortsatt kan fa tilgang til kontoen din",
+      "marketingEmails": "Jeg vil gjerne motta e-poster om apper, anbefalinger og tilbud for Ordnary Identity."
+    },
+    "links": {
+      "whyNeedBirthday": "Hvorfor ma jeg oppgi fodselsdatoen min?",
+      "learnMore": "Les mer",
+      "editEmail": "Rediger e-postadresse",
+      "noAccessEmail": "Har du ikke lenger tilgang til denne e-postadressen?",
+      "termsOfService": "Tjenestevilkar",
+      "privacyPolicy": "Personvernerklaering",
+      "cookiePolicy": "Retningslinjer for informasjonskapsler"
+    },
+    "messages": {
+      "nameHelp": "Ved a bruke ditt ekte navn blir det enklere a gjenopprette kontoen hvis du mister tilgangen.",
+      "emailHelp": "Bruk jobb- eller personlig e-post for a fa tilgang til Ordnary-tjenestene dine.",
+      "summaryPrivacy": "Detaljene for Ordnary-kontoen din er ikke offentlige.",
+      "verifyEmailLookFor": "Se etter en e-post fra notification@ordnary.com. Du ma kanskje sjekke spam- eller sosiale mapper.",
+      "termsAgreement": "Ved a klikke pa \"Fullfor\" godtar du vare Tjenestevilkar, Personvernerklaering og bekrefter at du har lest retningslinjene for informasjonskapsler.",
+      "footerAgreement": "Ved a fortsette bekrefter du at du har lest og godtar vare Tjenestevilkar, Personvernerklaering og gjeldende retningslinjer for databehandling. Du godtar ogsa a motta viktige konto- og sikkerhetsvarsler knyttet til din bruk av plattformen.",
+      "emailMissing": "E-postadresse er palagt.",
+      "resendCodeError": "Det oppstod en uventet feil ved ny sending av koden.",
+      "invalidInput": "Ugyldig inndata.",
+      "credentialsPrompt": "For a logge inn skriver du inn passordet som er knyttet til {identifier}.",
+      "checkEmailPrompt": "For a logge inn skriver du inn koden vi sendte til {identifier}.",
+      "termsIntro": "Ved a trykke pa Fullfor godtar du vare"
+    },
+    "validation": {
+      "emailRequired": "E-postadresse er palagt.",
+      "passwordRequired": "Passord er palagt.",
+      "passwordMin": "Passordet ma vaere minst 12 tegn langt.",
+      "passwordMax": "Passordet kan ikke overstige 128 tegn.",
+      "emailInvalid": "Skriv inn en gyldig e-postadresse.",
+      "displayNameMin": "Visningsnavnet ma vaere minst 2 tegn langt.",
+      "resetTokenRequired": "Tilbakestillingstoken er palagt.",
+      "verificationTokenRequired": "Verifikasjonstoken er palagt."
+    },
+    "errors": {
+      "invalidInput": "Ugyldig inndata.",
+      "genericLoginFailed": "Kunne ikke logge deg inn. Prov igjen.",
+      "loginInvalidCredentials": "Ugyldig e-post eller passord.",
+      "accountLocked": "Kontoen din er last eller suspendert.",
+      "passwordIncorrect": "Passordet du skrev inn er feil.",
+      "notAuthenticated": "Du er ikke autentisert.",
+      "registrationMissingInfo": "Obligatorisk registreringsinformasjon mangler.",
+      "registrationEmailExists": "Det finnes allerede en konto med denne e-postadressen.",
+      "systemNoDefaultTenant": "Systemfeil: ingen standard-tenant funnet.",
+      "registrationFailed": "Registreringen mislyktes. Prov igjen.",
+      "invalidVerificationRequest": "Ugyldig verifikasjonsforesporsel.",
+      "accountNotFound": "Kontoen ble ikke funnet.",
+      "verificationCodeInvalidOrExpired": "Ugyldig eller utgatt verifikasjonskode.",
+      "verificationFailedTryAgain": "Verifikasjonen mislyktes. Prov igjen.",
+      "invalidRequest": "Ugyldig foresporsel.",
+      "userNotFound": "Brukeren ble ikke funnet.",
+      "codeInvalidOrExpired": "Ugyldig eller utgatt kode.",
+      "verificationFailed": "Verifikasjonen mislyktes.",
+      "missingInformation": "Informasjon mangler.",
+      "passwordResetFailed": "Tilbakestilling av passord mislyktes.",
+      "emailMissing": "E-postadresse mangler.",
+      "resendCodeFailed": "Kunne ikke sende koden pa nytt. Prov igjen."
+    },
+    "months": ["januar", "februar", "mars", "april", "mai", "juni", "juli", "august", "september", "oktober", "november", "desember"]
+  }
+}

@@ -1,0 +1,141 @@
+{
+  "global": {
+    "accountCenterTitle": "Pusat Akaun",
+    "accountCenterSubtitle": "Urus pengalaman yang disambungkan dan tetapan akaun anda merentas teknologi Ordnary.",
+    "learnMore": "Ketahui lebih lanjut",
+    "loading": "Memuatkan..."
+  },
+  "nav": {
+    "profiles": "Profil",
+    "connectedExperiences": "Pengalaman disambungkan",
+    "passwordAndSecurity": "Kata laluan dan keselamatan",
+    "personalDetails": "Butiran peribadi",
+    "permissions": "Maklumat dan kebenaran anda",
+    "adPreferences": "Keutamaan iklan",
+    "payments": "Ordnary Pay",
+    "accounts": "Akaun"
+  },
+  "profiles": {
+    "title": "Profil",
+    "description": "Urus pengalaman yang disambungkan dan tetapan akaun anda merentas teknologi Ordnary.",
+    "addAccounts": "Tambah akaun"
+  },
+  "auth": {
+    "titles": {
+      "accountNotFound": "Cipta akaun Ordnary baharu?",
+      "registrationName": "Siapa nama anda?",
+      "registrationBirthday": "Bilakah hari jadi anda?",
+      "registrationPassword": "Cipta kata laluan",
+      "saveLoginInfo": "Simpan maklumat log masuk?",
+      "registrationReview": "Selesaikan penciptaan akaun anda",
+      "verifyEmailCode": "Masukkan kod pengesahan",
+      "editEmail": "Apakah alamat e-mel anda?",
+      "loginCodeEntry": "Semak e-mel anda",
+      "recoveryCodeEntry": "Sahkan akaun anda",
+      "resetPassword": "Cipta kata laluan baharu",
+      "passwordEntry": "Masukkan kata laluan anda",
+      "identifierLookup": "Apakah e-mel anda?"
+    },
+    "descriptions": {
+      "identifierLookup": "Masukkan e-mel anda untuk log masuk ke akaun Ordnary atau mencipta akaun baharu.",
+      "passwordEntry": "Untuk log masuk, masukkan kata laluan yang dikaitkan dengan {identifier}.",
+      "accountNotFound": "Kami tidak dapat mencari akaun Ordnary untuk {email}. Anda mungkin belum menciptanya. Jika anda sudah menciptanya, akaun itu mungkin menggunakan pengenal yang berbeza.",
+      "registrationName": "Nama ini akan digunakan untuk pemulihan akaun dan komunikasi mengenai akaun anda. Ia tidak akan kelihatan kepada umum.",
+      "registrationBirthday": "Gunakan tarikh lahir sebenar anda, walaupun akaun ini untuk perniagaan atau sesuatu yang lain. Maklumat ini tidak akan didedahkan kepada umum.",
+      "registrationPassword": "Cipta kata laluan dengan sekurang-kurangnya 6 aksara. Ia sepatutnya sesuatu yang sukar diteka oleh orang lain.",
+      "saveLoginInfo": "Kami akan menyimpan maklumat log masuk akaun anda supaya anda tidak perlu memasukkannya lagi pada masa akan datang.",
+      "verifyEmailCode": "Masukkan kod 6 digit yang dihantar ke {identifier} untuk mengesahkan akaun anda.",
+      "editEmail": "Masukkan alamat e-mel yang boleh kami gunakan untuk menghubungi anda. Alamat ini akan digunakan untuk log masuk dan pengurusan akaun, dan tidak akan kelihatan kepada umum.",
+      "loginCodeEntry": "Untuk log masuk, masukkan kod yang kami hantar ke {identifier}. Anda mungkin perlu memeriksa folder spam atau sosial.",
+      "recoveryCodeEntry": "Kami telah menghantar kod ke {identifier}. Masukkan kod itu untuk mengesahkan akaun anda.",
+      "resetPassword": "Anda akan menggunakan kata laluan ini untuk log masuk ke Akaun Ordnary anda. Gunakan sekurang-kurangnya 6 huruf dan nombor."
+    },
+    "buttons": {
+      "createNewAccount": "Cipta akaun baharu",
+      "alreadyHaveAccount": "Saya sudah mempunyai akaun",
+      "next": "Seterusnya",
+      "save": "Simpan",
+      "notNow": "Bukan sekarang",
+      "finish": "Selesai",
+      "resendCode": "Hantar semula kod",
+      "enterPassword": "Masukkan kata laluan",
+      "forgotPassword": "Lupa kata laluan?",
+      "switchAccount": "Tukar akaun",
+      "yes": "Ya",
+      "no": "Tidak"
+    },
+    "labels": {
+      "name": "Nama",
+      "firstName": "Nama pertama",
+      "lastName": "Nama keluarga",
+      "day": "Hari",
+      "month": "Bulan",
+      "year": "Tahun",
+      "dateOfBirth": "Tarikh lahir",
+      "confirmationCode": "Kod pengesahan",
+      "email": "Alamat e-mel",
+      "password": "Kata laluan",
+      "newPassword": "Kata laluan baharu",
+      "logoutOthers": "Log keluar di semua tempat lain untuk memastikan tiada orang lain masih boleh mengakses akaun anda",
+      "marketingEmails": "Saya ingin menerima e-mel tentang aplikasi, cadangan dan tawaran untuk Ordnary Identity."
+    },
+    "links": {
+      "whyNeedBirthday": "Mengapa saya perlu memberikan tarikh lahir saya?",
+      "learnMore": "Ketahui lebih lanjut",
+      "editEmail": "Edit alamat e-mel",
+      "noAccessEmail": "Tidak lagi mempunyai akses kepada alamat e-mel ini?",
+      "termsOfService": "Terma Perkhidmatan",
+      "privacyPolicy": "Dasar Privasi",
+      "cookiePolicy": "Dasar Kuki"
+    },
+    "messages": {
+      "nameHelp": "Menggunakan nama sebenar anda memudahkan pemulihan akaun jika anda kehilangan akses.",
+      "emailHelp": "Gunakan e-mel kerja atau peribadi anda untuk mengakses perkhidmatan Ordnary.",
+      "summaryPrivacy": "Butiran akaun Ordnary anda tidak didedahkan kepada umum.",
+      "verifyEmailLookFor": "Cari e-mel daripada notification@ordnary.com. Anda mungkin perlu memeriksa folder spam atau sosial.",
+      "termsAgreement": "Dengan mengklik \"Selesai\", anda bersetuju dengan Terma Perkhidmatan, Dasar Privasi dan mengesahkan bahawa anda telah membaca Dasar Kuki kami.",
+      "footerAgreement": "Dengan meneruskan, anda mengakui bahawa anda telah membaca dan bersetuju dengan Terma Perkhidmatan, Dasar Privasi dan garis panduan pemprosesan data yang berkenaan. Anda juga bersetuju untuk menerima pemberitahuan penting berkaitan akaun dan keselamatan yang berkaitan dengan penggunaan platform.",
+      "emailMissing": "Alamat e-mel diperlukan.",
+      "resendCodeError": "Ralat yang tidak dijangka berlaku semasa menghantar semula kod.",
+      "invalidInput": "Input tidak sah.",
+      "credentialsPrompt": "Untuk log masuk, masukkan kata laluan yang dikaitkan dengan {identifier}.",
+      "checkEmailPrompt": "Untuk log masuk, masukkan kod yang kami hantar ke {identifier}.",
+      "termsIntro": "Dengan mengetik Selesai, anda bersetuju dengan"
+    },
+    "validation": {
+      "emailRequired": "Alamat e-mel diperlukan.",
+      "passwordRequired": "Kata laluan diperlukan.",
+      "passwordMin": "Kata laluan mesti sekurang-kurangnya 12 aksara.",
+      "passwordMax": "Kata laluan tidak boleh melebihi 128 aksara.",
+      "emailInvalid": "Sila masukkan alamat e-mel yang sah.",
+      "displayNameMin": "Nama paparan mesti sekurang-kurangnya 2 aksara.",
+      "resetTokenRequired": "Token tetapan semula diperlukan.",
+      "verificationTokenRequired": "Token pengesahan diperlukan."
+    },
+    "errors": {
+      "invalidInput": "Input tidak sah.",
+      "genericLoginFailed": "Tidak dapat log masuk. Sila cuba lagi.",
+      "loginInvalidCredentials": "E-mel atau kata laluan tidak sah.",
+      "accountLocked": "Akaun anda dikunci atau digantung.",
+      "passwordIncorrect": "Kata laluan yang anda masukkan tidak betul.",
+      "notAuthenticated": "Anda tidak disahkan.",
+      "registrationMissingInfo": "Maklumat pendaftaran yang diperlukan tiada.",
+      "registrationEmailExists": "Akaun dengan e-mel ini sudah wujud.",
+      "systemNoDefaultTenant": "Ralat sistem: tenant lalai tidak ditemui.",
+      "registrationFailed": "Pendaftaran gagal. Sila cuba lagi.",
+      "invalidVerificationRequest": "Permintaan pengesahan tidak sah.",
+      "accountNotFound": "Akaun tidak ditemui.",
+      "verificationCodeInvalidOrExpired": "Kod pengesahan tidak sah atau telah tamat tempoh.",
+      "verificationFailedTryAgain": "Pengesahan gagal. Sila cuba lagi.",
+      "invalidRequest": "Permintaan tidak sah.",
+      "userNotFound": "Pengguna tidak ditemui.",
+      "codeInvalidOrExpired": "Kod tidak sah atau telah tamat tempoh.",
+      "verificationFailed": "Pengesahan gagal.",
+      "missingInformation": "Maklumat tiada.",
+      "passwordResetFailed": "Penetapan semula kata laluan gagal.",
+      "emailMissing": "Alamat e-mel tiada.",
+      "resendCodeFailed": "Gagal menghantar semula kod. Sila cuba lagi."
+    },
+    "months": ["Januari", "Februari", "Mac", "April", "Mei", "Jun", "Julai", "Ogos", "September", "Oktober", "November", "Disember"]
+  }
+}

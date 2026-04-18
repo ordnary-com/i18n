@@ -1,0 +1,141 @@
+{
+  "global": {
+    "accountCenterTitle": "Tilikeskus",
+    "accountCenterSubtitle": "Hallitse yhdistettyja kokemuksia ja tiliasetuksiasi kaikissa Ordnaryn teknologioissa.",
+    "learnMore": "Lue lisaa",
+    "loading": "Ladataan..."
+  },
+  "nav": {
+    "profiles": "Profiilit",
+    "connectedExperiences": "Yhdistetyt kokemukset",
+    "passwordAndSecurity": "Salasana ja turvallisuus",
+    "personalDetails": "Henkilotiedot",
+    "permissions": "Tietosi ja oikeutesi",
+    "adPreferences": "Mainosasetukset",
+    "payments": "Ordnary Pay",
+    "accounts": "Tilit"
+  },
+  "profiles": {
+    "title": "Profiilit",
+    "description": "Hallitse yhdistettyja kokemuksia ja tiliasetuksiasi kaikissa Ordnaryn teknologioissa.",
+    "addAccounts": "Lisaa tileja"
+  },
+  "auth": {
+    "titles": {
+      "accountNotFound": "Luodaanko uusi Ordnary-tili?",
+      "registrationName": "Mika nimesi on?",
+      "registrationBirthday": "Milloin syntymapaivasi on?",
+      "registrationPassword": "Luo salasana",
+      "saveLoginInfo": "Tallennetaanko kirjautumistiedot?",
+      "registrationReview": "Viimeistele tilin luominen",
+      "verifyEmailCode": "Syota vahvistuskoodi",
+      "editEmail": "Mika on sahkopostiosoitteesi?",
+      "loginCodeEntry": "Tarkista sahkopostisi",
+      "recoveryCodeEntry": "Vahvista tilisi",
+      "resetPassword": "Luo uusi salasana",
+      "passwordEntry": "Syota salasanasi",
+      "identifierLookup": "Mika on sahkopostisi?"
+    },
+    "descriptions": {
+      "identifierLookup": "Syota sahkopostisi kirjautuaksesi Ordnary-tilille tai luodaksesi uuden tilin.",
+      "passwordEntry": "Kirjaudu sisaan syottamalla salasana, joka liittyy tunnukseen {identifier}.",
+      "accountNotFound": "Emme loyda Ordnary-tilia osoitteelle {email}. Et ehkâ ole viela luonut tiliä. Jos olet, se saattaa kayttaa toista tunnistetta.",
+      "registrationName": "Tata nimea kaytetaan tilin palautukseen ja viestintaan tilistasi. Se ei näy julkisesti.",
+      "registrationBirthday": "Kayta omaa syntymapaivaasi, vaikka tama tili olisi yritysta tai jotakin muuta varten. Tieto ei ole julkinen.",
+      "registrationPassword": "Luo salasana, jossa on vahintaan 6 merkkia. Sen tulisi olla jotain, mita muut eivat osaa arvata.",
+      "saveLoginInfo": "Tallennamme tilisi kirjautumistiedot, jotta sinun ei tarvitse syottaa niita uudelleen ensi kerralla.",
+      "verifyEmailCode": "Syota 6-numeroinen koodi, joka lahetettiin osoitteeseen {identifier}, vahvistaaksesi tilisi.",
+      "editEmail": "Syota sahkopostiosoite, josta sinut tavoittaa. Osoitetta kaytetaan kirjautumiseen ja tilin hallintaan, eika sita nayteta julkisesti.",
+      "loginCodeEntry": "Kirjaudu sisaan syottamalla koodi, jonka lahetimme osoitteeseen {identifier}. Saatat joutua tarkistamaan roskaposti- tai sosiaalisen median kansiosi.",
+      "recoveryCodeEntry": "Lahetimme koodin osoitteeseen {identifier}. Syota koodi vahvistaaksesi tilisi.",
+      "resetPassword": "Kaytat tata salasanaa kirjautuaksesi Ordnary-tilillesi. Kayta vahintaan 6 kirjainta ja numeroa."
+    },
+    "buttons": {
+      "createNewAccount": "Luo uusi tili",
+      "alreadyHaveAccount": "Minulla on jo tili",
+      "next": "Seuraava",
+      "save": "Tallenna",
+      "notNow": "Ei nyt",
+      "finish": "Valmis",
+      "resendCode": "Laheta koodi uudelleen",
+      "enterPassword": "Syota salasana",
+      "forgotPassword": "Unohditko salasanan?",
+      "switchAccount": "Vaihda tilia",
+      "yes": "Kyla",
+      "no": "Ei"
+    },
+    "labels": {
+      "name": "Nimi",
+      "firstName": "Etunimi",
+      "lastName": "Sukunimi",
+      "day": "Paiva",
+      "month": "Kuukausi",
+      "year": "Vuosi",
+      "dateOfBirth": "Syntymapaiva",
+      "confirmationCode": "Vahvistuskoodi",
+      "email": "Sahkopostiosoite",
+      "password": "Salasana",
+      "newPassword": "Uusi salasana",
+      "logoutOthers": "Kirjaudu ulos kaikista muista paikoista varmistaaksesi, ettei kukaan muu voi enaa kayttaa tiliäsi",
+      "marketingEmails": "Haluan saada sahkoposteja Ordnary Identityn sovelluksista, suosituksista ja tarjouksista."
+    },
+    "links": {
+      "whyNeedBirthday": "Miksi minun on annettava syntymapaivani?",
+      "learnMore": "Lue lisaa",
+      "editEmail": "Muokkaa sahkopostiosoitetta",
+      "noAccessEmail": "Eikö sinulla ole enaa paasyä tahan sahkopostiosoitteeseen?",
+      "termsOfService": "Kayttoehdot",
+      "privacyPolicy": "Tietosuojakaytanto",
+      "cookiePolicy": "Evastekaytanto"
+    },
+    "messages": {
+      "nameHelp": "Oikean nimen kayttaminen helpottaa tilin palauttamista, jos menetat paasyyn.",
+      "emailHelp": "Kayta tyo- tai henkilokohtaista sahkopostia Ordnary-palveluiden kayttamiseen.",
+      "summaryPrivacy": "Ordnary-tilisi tiedot eivat ole julkisia.",
+      "verifyEmailLookFor": "Etsi viesti osoitteesta notification@ordnary.com. Saatat joutua tarkistamaan myos roskaposti- tai sosiaalisen median kansiosi.",
+      "termsAgreement": "Napsauttamalla \"Valmis\" hyvaksyty Kayttoehdot, Tietosuojakaytanto ja vahvistat lukeneesi Evastekaytannon.",
+      "footerAgreement": "Jatkamalla vahvistat, etta olet lukenut ja hyvaksyty Kayttoehdot, Tietosuojakaytannon ja sovellettavat tietojenkasittelyohjeet. Hyvaksyty myos valttamattomien tili- ja turvallisuusilmoitusten vastaanottamisen, jotka liittyvat palvelun kayttoosi.",
+      "emailMissing": "Sahkopostiosoite vaaditaan.",
+      "resendCodeError": "Koodin uudelleenlahetyksessa tapahtui odottamaton virhe.",
+      "invalidInput": "Virheellinen syote.",
+      "credentialsPrompt": "Kirjaudu sisaan syottamalla salasana, joka liittyy tunnukseen {identifier}.",
+      "checkEmailPrompt": "Kirjaudu sisaan syottamalla koodi, jonka lahetimme osoitteeseen {identifier}.",
+      "termsIntro": "Napauttamalla Valmis hyvaksyty"
+    },
+    "validation": {
+      "emailRequired": "Sahkopostiosoite vaaditaan.",
+      "passwordRequired": "Salasana vaaditaan.",
+      "passwordMin": "Salasanan on oltava vahintaan 12 merkkia pitka.",
+      "passwordMax": "Salasana ei saa olla yli 128 merkkia pitka.",
+      "emailInvalid": "Anna kelvollinen sahkopostiosoite.",
+      "displayNameMin": "Nayttonimen on oltava vahintaan 2 merkkia pitka.",
+      "resetTokenRequired": "Nollausavain vaaditaan.",
+      "verificationTokenRequired": "Vahvistustunnus vaaditaan."
+    },
+    "errors": {
+      "invalidInput": "Virheellinen syote.",
+      "genericLoginFailed": "Sisaan kirjautuminen ei onnistunut. Yrita uudelleen.",
+      "loginInvalidCredentials": "Virheellinen sahkoposti tai salasana.",
+      "accountLocked": "Tilisi on lukittu tai keskeytetty.",
+      "passwordIncorrect": "Syottamasi salasana on vaarin.",
+      "notAuthenticated": "Sinua ei ole todennettu.",
+      "registrationMissingInfo": "Pakollisia rekisterointitietoja puuttuu.",
+      "registrationEmailExists": "Talla sahkopostiosoitteella on jo tili.",
+      "systemNoDefaultTenant": "Jarjestelmavirhe: oletus-tenantia ei loytynyt.",
+      "registrationFailed": "Rekisterointi epaonnistui. Yrita uudelleen.",
+      "invalidVerificationRequest": "Virheellinen vahvistuspyynto.",
+      "accountNotFound": "Tilia ei loytynyt.",
+      "verificationCodeInvalidOrExpired": "Virheellinen tai vanhentunut vahvistuskoodi.",
+      "verificationFailedTryAgain": "Vahvistus epaonnistui. Yrita uudelleen.",
+      "invalidRequest": "Virheellinen pyynto.",
+      "userNotFound": "Kayttajaa ei loytynyt.",
+      "codeInvalidOrExpired": "Virheellinen tai vanhentunut koodi.",
+      "verificationFailed": "Vahvistus epaonnistui.",
+      "missingInformation": "Tietoja puuttuu.",
+      "passwordResetFailed": "Salasanan nollaus epaonnistui.",
+      "emailMissing": "Sahkopostiosoite puuttuu.",
+      "resendCodeFailed": "Koodin uudelleenlahetys epaonnistui. Yrita uudelleen."
+    },
+    "months": ["tammikuu", "helmikuu", "maaliskuu", "huhtikuu", "toukokuu", "kesakuu", "heinakuu", "elokuu", "syyskuu", "lokakuu", "marraskuu", "joulukuu"]
+  }
+}

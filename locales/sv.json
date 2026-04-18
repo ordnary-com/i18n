@@ -1,0 +1,141 @@
+{
+  "global": {
+    "accountCenterTitle": "Kontocenter",
+    "accountCenterSubtitle": "Hantera dina anslutna upplevelser och kontoinstallningar i hela Ordnarys teknik.",
+    "learnMore": "Lasa mer",
+    "loading": "Laddar..."
+  },
+  "nav": {
+    "profiles": "Profiler",
+    "connectedExperiences": "Anslutna upplevelser",
+    "passwordAndSecurity": "Losenord och sakerhet",
+    "personalDetails": "Personliga uppgifter",
+    "permissions": "Din information och dina behorigheter",
+    "adPreferences": "Annonsinstallningar",
+    "payments": "Ordnary Pay",
+    "accounts": "Konton"
+  },
+  "profiles": {
+    "title": "Profiler",
+    "description": "Hantera dina anslutna upplevelser och kontoinstallningar i hela Ordnarys teknik.",
+    "addAccounts": "Lagg till konton"
+  },
+  "auth": {
+    "titles": {
+      "accountNotFound": "Skapa ett nytt Ordnary-konto?",
+      "registrationName": "Vad heter du?",
+      "registrationBirthday": "Nar fyller du ar?",
+      "registrationPassword": "Skapa ett losenord",
+      "saveLoginInfo": "Spara inloggningsuppgifter?",
+      "registrationReview": "Slutfor skapandet av ditt konto",
+      "verifyEmailCode": "Ange bekraftelsekod",
+      "editEmail": "Vad ar din e-postadress?",
+      "loginCodeEntry": "Kontrollera din e-post",
+      "recoveryCodeEntry": "Bekrafta ditt konto",
+      "resetPassword": "Skapa ett nytt losenord",
+      "passwordEntry": "Ange ditt losenord",
+      "identifierLookup": "Vad ar din e-post?"
+    },
+    "descriptions": {
+      "identifierLookup": "Ange din e-post for att logga in pa ett Ordnary-konto eller skapa ett nytt.",
+      "passwordEntry": "For att logga in anger du losenordet som ar kopplat till {identifier}.",
+      "accountNotFound": "Vi kan inte hitta ett Ordnary-konto for {email}. Du kanske inte har skapat ett an. Om du har gjort det kan det anvanda en annan identifierare.",
+      "registrationName": "Detta namn kommer att anvandas for kontoaterstallning och kommunikation om ditt konto. Det ar inte synligt for allmanheten.",
+      "registrationBirthday": "Anvand ditt riktiga fodelsedatum, aven om detta konto ar for ett foretag eller nagot annat. Denna information kommer inte att vara offentlig.",
+      "registrationPassword": "Skapa ett losenord med minst 6 tecken. Det bor vara nagot som andra inte kan gissa.",
+      "saveLoginInfo": "Vi sparar inloggningsuppgifterna for ditt konto sa att du inte behover ange dem igen nasta gang.",
+      "verifyEmailCode": "Ange den 6-siffriga kod som skickades till {identifier} for att bekrafta ditt konto.",
+      "editEmail": "Ange den e-postadress dar vi kan kontakta dig. Denna adress kommer att anvandas for inloggning och kontohantering och kommer inte att vara offentlig.",
+      "loginCodeEntry": "For att logga in anger du koden vi skickade till {identifier}. Du kan behova kontrollera din skrappost eller sociala inkorg.",
+      "recoveryCodeEntry": "Vi har skickat en kod till {identifier}. Ange den koden for att bekrafta ditt konto.",
+      "resetPassword": "Du kommer att anvanda detta losenord for att logga in pa ditt Ordnary-konto. Anvand minst 6 bokstaver och siffror."
+    },
+    "buttons": {
+      "createNewAccount": "Skapa nytt konto",
+      "alreadyHaveAccount": "Jag har redan ett konto",
+      "next": "Nasta",
+      "save": "Spara",
+      "notNow": "Inte nu",
+      "finish": "Slutfor",
+      "resendCode": "Skicka koden igen",
+      "enterPassword": "Ange losenord",
+      "forgotPassword": "Glomt losenordet?",
+      "switchAccount": "Byt konto",
+      "yes": "Ja",
+      "no": "Nej"
+    },
+    "labels": {
+      "name": "Namn",
+      "firstName": "Fornamn",
+      "lastName": "Efternamn",
+      "day": "Dag",
+      "month": "Manad",
+      "year": "Ar",
+      "dateOfBirth": "Fodelsedatum",
+      "confirmationCode": "Bekraftelsekod",
+      "email": "E-postadress",
+      "password": "Losenord",
+      "newPassword": "Nytt losenord",
+      "logoutOthers": "Logga ut overallt annars for att sakerstalla att ingen annan fortfarande kan komma at ditt konto",
+      "marketingEmails": "Jag vill ta emot e-post om appar, rekommendationer och erbjudanden for Ordnary Identity."
+    },
+    "links": {
+      "whyNeedBirthday": "Varfor maste jag ange mitt fodelsedatum?",
+      "learnMore": "Lasa mer",
+      "editEmail": "Redigera e-postadress",
+      "noAccessEmail": "Har du inte langre tillgang till den har e-postadressen?",
+      "termsOfService": "Tjanstevillkor",
+      "privacyPolicy": "Integritetspolicy",
+      "cookiePolicy": "Cookiepolicy"
+    },
+    "messages": {
+      "nameHelp": "Att anvanda ditt riktiga namn gor det enklare att aterstalla ditt konto om du forlorar tillgangen.",
+      "emailHelp": "Anvand din arbetsrelaterade eller personliga e-post for att komma at dina Ordnary-tjanster.",
+      "summaryPrivacy": "Uppgifterna for ditt Ordnary-konto ar inte offentliga.",
+      "verifyEmailLookFor": "Leta efter ett e-postmeddelande fran notification@ordnary.com. Du kan behova kontrollera din skrappost eller sociala inkorg.",
+      "termsAgreement": "Genom att klicka pa \"Slutfor\" godkanner du vara Tjanstevillkor, Integritetspolicy och bekraftar att du har last var Cookiepolicy.",
+      "footerAgreement": "Genom att fortsatta bekrar du att du har last och godkanner vara Tjanstevillkor, Integritetspolicy och tillampliga riktlinjer for databehandling. Du godkanner ocksa att ta emot viktiga konto- och sakerhetsmeddelanden som ar kopplade till din anvandning av plattformen.",
+      "emailMissing": "E-postadress kravs.",
+      "resendCodeError": "Ett ovantat fel uppstod nar koden skulle skickas igen.",
+      "invalidInput": "Ogiltig inmatning.",
+      "credentialsPrompt": "For att logga in anger du losenordet som ar kopplat till {identifier}.",
+      "checkEmailPrompt": "For att logga in anger du koden vi skickade till {identifier}.",
+      "termsIntro": "Genom att trycka pa Slutfor godkanner du vara"
+    },
+    "validation": {
+      "emailRequired": "E-postadress kravs.",
+      "passwordRequired": "Losenord kravs.",
+      "passwordMin": "Losenordet maste vara minst 12 tecken langt.",
+      "passwordMax": "Losenordet far inte overstiga 128 tecken.",
+      "emailInvalid": "Ange en giltig e-postadress.",
+      "displayNameMin": "Visningsnamnet maste vara minst 2 tecken langt.",
+      "resetTokenRequired": "Reset-token kravs.",
+      "verificationTokenRequired": "Verifieringstoken kravs."
+    },
+    "errors": {
+      "invalidInput": "Ogiltig inmatning.",
+      "genericLoginFailed": "Det gick inte att logga in dig. Forsok igen.",
+      "loginInvalidCredentials": "Ogiltig e-post eller ogiltigt losenord.",
+      "accountLocked": "Ditt konto ar last eller avstangt.",
+      "passwordIncorrect": "Losenordet du angav ar felaktigt.",
+      "notAuthenticated": "Du ar inte autentiserad.",
+      "registrationMissingInfo": "Obligatorisk registreringsinformation saknas.",
+      "registrationEmailExists": "Det finns redan ett konto med den har e-postadressen.",
+      "systemNoDefaultTenant": "Systemfel: ingen standard-tenant hittades.",
+      "registrationFailed": "Registreringen misslyckades. Forsok igen.",
+      "invalidVerificationRequest": "Ogiltig verifieringsbegaran.",
+      "accountNotFound": "Kontot hittades inte.",
+      "verificationCodeInvalidOrExpired": "Ogiltig eller utgangen verifieringskod.",
+      "verificationFailedTryAgain": "Verifieringen misslyckades. Forsok igen.",
+      "invalidRequest": "Ogiltig begaran.",
+      "userNotFound": "Anvandaren hittades inte.",
+      "codeInvalidOrExpired": "Ogiltig eller utgangen kod.",
+      "verificationFailed": "Verifieringen misslyckades.",
+      "missingInformation": "Information saknas.",
+      "passwordResetFailed": "Aterstallning av losenord misslyckades.",
+      "emailMissing": "E-postadress saknas.",
+      "resendCodeFailed": "Det gick inte att skicka koden igen. Forsok igen."
+    },
+    "months": ["januari", "februari", "mars", "april", "maj", "juni", "juli", "augusti", "september", "oktober", "november", "december"]
+  }
+}

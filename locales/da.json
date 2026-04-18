@@ -1,0 +1,141 @@
+{
+  "global": {
+    "accountCenterTitle": "Kontocenter",
+    "accountCenterSubtitle": "Administrer dine tilsluttede oplevelser og kontoindstillinger pa tværs af Ordnary-teknologier.",
+    "learnMore": "Laer mere",
+    "loading": "Indlaeser..."
+  },
+  "nav": {
+    "profiles": "Profiler",
+    "connectedExperiences": "Tilsluttede oplevelser",
+    "passwordAndSecurity": "Adgangskode og sikkerhed",
+    "personalDetails": "Personlige oplysninger",
+    "permissions": "Dine oplysninger og tilladelser",
+    "adPreferences": "Annoncepræferencer",
+    "payments": "Ordnary Pay",
+    "accounts": "Konti"
+  },
+  "profiles": {
+    "title": "Profiler",
+    "description": "Administrer dine tilsluttede oplevelser og kontoindstillinger pa tværs af Ordnary-teknologier.",
+    "addAccounts": "Tilfoj konti"
+  },
+  "auth": {
+    "titles": {
+      "accountNotFound": "Oprette en ny Ordnary-konto?",
+      "registrationName": "Hvad hedder du?",
+      "registrationBirthday": "Hvornar har du fodselsdag?",
+      "registrationPassword": "Opret en adgangskode",
+      "saveLoginInfo": "Gem loginoplysninger?",
+      "registrationReview": "Afslut oprettelsen af din konto",
+      "verifyEmailCode": "Indtast bekræftelseskode",
+      "editEmail": "Hvad er din e-mailadresse?",
+      "loginCodeEntry": "Tjek din e-mail",
+      "recoveryCodeEntry": "Bekræft din konto",
+      "resetPassword": "Opret en ny adgangskode",
+      "passwordEntry": "Indtast din adgangskode",
+      "identifierLookup": "Hvad er din e-mail?"
+    },
+    "descriptions": {
+      "identifierLookup": "Indtast din e-mail for at logge ind pa en Ordnary-konto eller oprette en ny.",
+      "passwordEntry": "For at logge ind skal du indtaste adgangskoden, der er knyttet til {identifier}.",
+      "accountNotFound": "Vi kan ikke finde en Ordnary-konto for {email}. Du har muligvis ikke oprettet en endnu. Hvis du har, bruger den muligvis en anden identifikator.",
+      "registrationName": "Dette navn bruges til gendannelse af kontoen og kommunikation om din konto. Det vil ikke vaere synligt for offentligheden.",
+      "registrationBirthday": "Brug din egen fodselsdato, selv om denne konto er til en virksomhed eller noget andet. Disse oplysninger vil ikke vaere offentlige.",
+      "registrationPassword": "Opret en adgangskode pa mindst 6 tegn. Det bor vaere noget, andre ikke kan gaette.",
+      "saveLoginInfo": "Vi gemmer loginoplysningerne for din konto, sa du ikke behøver at indtaste dem igen naeste gang.",
+      "verifyEmailCode": "Indtast den 6-cifrede kode, der blev sendt til {identifier}, for at bekraefte din konto.",
+      "editEmail": "Indtast den e-mailadresse, hvor vi kan kontakte dig. Denne adresse bruges til login og kontoadministration og vil ikke vaere synlig for offentligheden.",
+      "loginCodeEntry": "For at logge ind skal du indtaste den kode, vi har sendt til {identifier}. Du skal muligvis tjekke din spam- eller sociale mappe.",
+      "recoveryCodeEntry": "Vi har sendt en kode til {identifier}. Indtast den kode for at bekraefte din konto.",
+      "resetPassword": "Du bruger denne adgangskode til at logge ind pa din Ordnary-konto. Brug mindst 6 bogstaver og tal."
+    },
+    "buttons": {
+      "createNewAccount": "Opret ny konto",
+      "alreadyHaveAccount": "Jeg har allerede en konto",
+      "next": "Naeste",
+      "save": "Gem",
+      "notNow": "Ikke nu",
+      "finish": "Afslut",
+      "resendCode": "Send koden igen",
+      "enterPassword": "Indtast adgangskode",
+      "forgotPassword": "Glemt adgangskode?",
+      "switchAccount": "Skift konto",
+      "yes": "Ja",
+      "no": "Nej"
+    },
+    "labels": {
+      "name": "Navn",
+      "firstName": "Fornavn",
+      "lastName": "Efternavn",
+      "day": "Dag",
+      "month": "Maned",
+      "year": "Ar",
+      "dateOfBirth": "Fodselsdato",
+      "confirmationCode": "Bekraeftelseskode",
+      "email": "E-mailadresse",
+      "password": "Adgangskode",
+      "newPassword": "Ny adgangskode",
+      "logoutOthers": "Log ud alle andre steder for at sikre, at ingen andre stadig har adgang til din konto",
+      "marketingEmails": "Jeg vil gerne modtage e-mails om apps, anbefalinger og tilbud for Ordnary Identity."
+    },
+    "links": {
+      "whyNeedBirthday": "Hvorfor skal jeg oplyse min fodselsdato?",
+      "learnMore": "Laer mere",
+      "editEmail": "Rediger e-mailadresse",
+      "noAccessEmail": "Har du ikke laengere adgang til denne e-mailadresse?",
+      "termsOfService": "Servicevilkar",
+      "privacyPolicy": "Privatlivspolitik",
+      "cookiePolicy": "Cookiepolitik"
+    },
+    "messages": {
+      "nameHelp": "Brug af dit rigtige navn gor det lettere at gendanne din konto, hvis du mister adgangen.",
+      "emailHelp": "Brug din arbejds- eller personlige e-mail til at fa adgang til dine Ordnary-tjenester.",
+      "summaryPrivacy": "Dine Ordnary-kontooplysninger er ikke offentlige.",
+      "verifyEmailLookFor": "Se efter en e-mail fra notification@ordnary.com. Du skal muligvis ogsa tjekke din spam- eller sociale mappe.",
+      "termsAgreement": "Ved at klikke pa \"Afslut\" accepterer du vores Servicevilkar, Privatlivspolitik og bekraefter, at du har laest vores Cookiepolitik.",
+      "footerAgreement": "Ved at fortsaette anerkender du, at du har laest og accepterer vores Servicevilkar, Privatlivspolitik og gaeldende retningslinjer for databehandling. Du accepterer ogsa at modtage vigtige konto- og sikkerhedsmeddelelser relateret til din brug af platformen.",
+      "emailMissing": "E-mailadresse er paakraevet.",
+      "resendCodeError": "Der opstod en uventet fejl under gensendelse af koden.",
+      "invalidInput": "Ugyldigt input.",
+      "credentialsPrompt": "For at logge ind skal du indtaste adgangskoden, der er knyttet til {identifier}.",
+      "checkEmailPrompt": "For at logge ind skal du indtaste den kode, vi har sendt til {identifier}.",
+      "termsIntro": "Ved at trykke pa Afslut accepterer du vores"
+    },
+    "validation": {
+      "emailRequired": "E-mailadresse er paakraevet.",
+      "passwordRequired": "Adgangskode er paakraevet.",
+      "passwordMin": "Adgangskoden skal vaere mindst 12 tegn lang.",
+      "passwordMax": "Adgangskoden ma ikke overstige 128 tegn.",
+      "emailInvalid": "Indtast en gyldig e-mailadresse.",
+      "displayNameMin": "Visningsnavnet skal vaere mindst 2 tegn langt.",
+      "resetTokenRequired": "Nulstillingstoken er paakraevet.",
+      "verificationTokenRequired": "Verifikationstoken er paakraevet."
+    },
+    "errors": {
+      "invalidInput": "Ugyldigt input.",
+      "genericLoginFailed": "Det var ikke muligt at logge dig ind. Prov igen.",
+      "loginInvalidCredentials": "Ugyldig e-mail eller adgangskode.",
+      "accountLocked": "Din konto er last eller suspenderet.",
+      "passwordIncorrect": "Den adgangskode, du indtastede, er forkert.",
+      "notAuthenticated": "Du er ikke autentificeret.",
+      "registrationMissingInfo": "Paakraevet registreringsinformation mangler.",
+      "registrationEmailExists": "Der findes allerede en konto med denne e-mailadresse.",
+      "systemNoDefaultTenant": "Systemfejl: ingen standard-tenant fundet.",
+      "registrationFailed": "Registrering mislykkedes. Prov igen.",
+      "invalidVerificationRequest": "Ugyldig verifikationsanmodning.",
+      "accountNotFound": "Konto ikke fundet.",
+      "verificationCodeInvalidOrExpired": "Ugyldig eller udlobet verifikationskode.",
+      "verificationFailedTryAgain": "Verifikation mislykkedes. Prov igen.",
+      "invalidRequest": "Ugyldig anmodning.",
+      "userNotFound": "Bruger ikke fundet.",
+      "codeInvalidOrExpired": "Ugyldig eller udlobet kode.",
+      "verificationFailed": "Verifikation mislykkedes.",
+      "missingInformation": "Information mangler.",
+      "passwordResetFailed": "Nulstilling af adgangskode mislykkedes.",
+      "emailMissing": "E-mailadresse mangler.",
+      "resendCodeFailed": "Det lykkedes ikke at sende koden igen. Prov igen."
+    },
+    "months": ["januar", "februar", "marts", "april", "maj", "juni", "juli", "august", "september", "oktober", "november", "december"]
+  }
+}
